@@ -11,7 +11,7 @@ import country from 'all-country-data'
 console.log( country.all())
 console.log( country.findByCountryCode('+91'))
 ```
-```sh
+```js
 var country = require('all-country-data');
 
 console.log( country.all())
@@ -19,14 +19,14 @@ console.log( country.findByCountryCode('+91'))
 ```
 
 ### Use Only Required Function
-```sh
+```js
 import search from 'all-country-data/dist/search'
 or
 var search = require('all-country-data/dist/search')
 
 console.log(search("India"))
 ```
-```sh
+```js
 import countryCapitalList from 'all-country-data/dist/countryCapitalList'
 or
 var countryCapitalList = require('all-country-data/dist/countryCapitalList')
