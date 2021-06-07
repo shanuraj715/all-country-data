@@ -5,7 +5,7 @@ npm i all-country-data
 ```
 
 ### Usage
-```shfunctions
+```js
 import country from 'all-country-data'
 
 console.log( country.all())
