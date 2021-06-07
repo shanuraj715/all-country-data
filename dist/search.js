@@ -28,17 +28,21 @@ const search = (string) => {
                 }
                 ar.push(obj)
             }
-            else if( item.isd && ((item.isd).toLowerCase()).includes(string.toLowerCase()) ){
-                let obj = {
-                    country: item.name,
-                    capital: item.capital,
-                    languages: item.language,
-                    isd_code: item.isd,
-                    currency: item.currency,
-                    currency_code: item.currency_code,
-                    country_code: item.country_code
-                }
-                ar.push(obj)
+            else if( item.isd ){
+                (item.isd).map( a => {
+                    if( a === string ){
+                        let obj = {
+                            country: item.name,
+                            capital: item.capital,
+                            languages: item.language,
+                            isd_code: item.isd,
+                            currency: item.currency,
+                            currency_code: item.currency_code,
+                            country_code: item.country_code
+                        }
+                        ar.push(obj)
+                    }
+                })
             }
             else if( item.currency && ((item.currency).toLowerCase()).includes(string.toLowerCase()) ){
                 let obj = {

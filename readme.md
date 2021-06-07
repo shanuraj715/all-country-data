@@ -85,10 +85,12 @@ allCountries.map( item => {
 #
 #
 #### GitHub Repository
-[all-country-data Repository](https://github.com/shanuraj715/all-country-data.git)
+[Git Repository](https://github.com/shanuraj715/all-country-data)
+#### NPM Package
+[NPM Package Repository](https://www.npmjs.com/package/all-country-data)
 
 ## License
 
 MIT
 
-**Free Software, by shanuraj715!**
+**Free Package, by shanuraj715!**

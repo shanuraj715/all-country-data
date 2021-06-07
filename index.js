@@ -30,4 +30,5 @@ const countries = {
 
     count
 }
+console.log( countries.search('+1'))
 module.exports = countries
