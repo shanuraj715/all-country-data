@@ -11,15 +11,11 @@ let search = require('./dist/search')
 let searchByLanguage = require('./dist/searchByLanguage')
 let count = require('./dist/count')
 let findCountryByCapital = require('./dist/findCountryByCapital')
-
+let flag = require('./dist/flag')
 
 const countries = {
-    countryList,
-    countryCurrencyList,
-    countryIsdCodeList,
-    countryCapitalList,
-    countryLanguageList,
-    all,
+    countryList, countryCurrencyList, countryIsdCodeList, countryCapitalList,
+    countryLanguageList, all, count,
     findCountryByCapital: cap => findCountryByCapital( cap ),
     findByCountryName: name => findByCountryName(name),
     findByCountryCode: code => findByCountryCode( code ),
@@ -27,7 +23,7 @@ const countries = {
     search: str => search( str ),
 
     searchByLanguage: str => searchByLanguage( str ),
-
-    count
+    countryFlag: str => flag.get(str),
+    searchFlag: str => flag.search(str)
 }
 module.exports = countries
