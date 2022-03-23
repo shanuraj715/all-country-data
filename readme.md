@@ -58,7 +58,7 @@ console.log( countryCapitalList() )
 | search() | Array of Objects | `String` | Returns "country", "country_code", "isd_code", "languages", "capital", "currency", "currency_code". It will search in Country Name, Country Code, ISD Code, Capital, Currency, Currency Code. This will not search for Languages. Try `searchByLanguage()` function to search data by language |
 | searchByLanguage() | Array of Objects | `String` | Returns "country", "country_code", "isd_code", "languages", "capital", "currency", "currency_code". It only serach in languages. Try `search()` function to search data by country name, code, isd, capital, etc... |
 | countryFlag() | String (Base64) | `String` | Returns transparent image data in base64 format. It only find the flag by "country name" or "country code". |
-| searchFlag() | Array of Objects | Array | Returns Array of Objects. Object contains 'country name', 'country code' and base64 string for the transparent flag of that country. |
+| searchFlag() | Array of Objects | `String` | Returns Array of Objects. Object contains 'country name', 'country code' and base64 string for the transparent flag of that country. |
 
 ## Examples
 ```js
