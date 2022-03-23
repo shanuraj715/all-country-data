@@ -1,6 +1,6 @@
 {
   "name": "all-country-data",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "description": "This package provides extra functionality like list of countries and their capitals. Primary language, ISD Codes, Country Codes, Currency Name, Country Flags, Currency Codes will also be provided.",
   "main": "index.js",
   "keywords": [
