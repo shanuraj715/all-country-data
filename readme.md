@@ -40,6 +40,7 @@ console.log( countryCapitalList() )
 
 
 # Functions
+
 | Function Name | Returns | Arguments | Description |
 | ------------- | ------- | --------- | ----------- |
 | all() | Array of Objects | null | Returns all countries data including "country", "country_code", "isd_code", "languages", "capital", "currency", "currency_code". |
