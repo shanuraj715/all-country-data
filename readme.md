@@ -37,9 +37,7 @@ var countryCapitalList = require('all-country-data/dist/countryCapitalList')
 console.log( countryCapitalList() )
 ```
 ##### `You can import any particular function by the above method.`
-#
----
----
+
 
 # Functions
 | Function Name | Returns | Arguments | Description |
