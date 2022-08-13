@@ -100,8 +100,8 @@ console.log(searchFalg)
 */
 ```
 ##### `Remaining function can also be used like the above explained functions.`
-#
-#
+
+
 #### GitHub Repository
 [Git Repository](https://github.com/shanuraj715/all-country-data)
 #### NPM Package
