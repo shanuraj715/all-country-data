@@ -2055,8 +2055,8 @@
         "currency_code": "NGN",
         "country_code": "NG",
         "capital_geo": {
-            "lat": 0,
-            "lng": 0
+            "lat": 9.0643305,
+            "lng": 7.4892974
         }
 }, 
     {
@@ -2068,8 +2068,8 @@
         "currency_code": "NZD",
         "country_code": "NU",
         "capital_geo": {
-            "lat": 0,
-            "lng": 0
+            "lat": -19.0534159,
+            "lng": -169.919199
         }
 }, 
     {
@@ -2081,21 +2081,21 @@
         "currency_code": "AUD",
         "country_code": "NF",
         "capital_geo": {
-            "lat": 0,
-            "lng": 0
+            "lat": -29.060556,
+            "lng": 167.961944
         }
 }, 
     {
         "name": "Northern Mariana Islands",
-        "capital": "Belfast",
-        "language": [""],
+        "capital": "Saipan",
+        "language": ["Chamorro", "Carolinian", "English"],
         "isd": ["+1670"],
         "currency": "United States Dollar",
         "currency_code": "USD",
         "country_code": "MP",
         "capital_geo": {
-            "lat": 0,
-            "lng": 0
+            "lat": 15.1909825,
+            "lng": 145.746743
         }
 }, 
     {
@@ -2107,21 +2107,21 @@
         "currency_code": "NOK",
         "country_code": "NO",
         "capital_geo": {
-            "lat": 0,
-            "lng": 0
+            "lat": 59.9133301,
+            "lng": 10.7389701
         }
 }, 
     {
         "name": "Oman",
-        "capital": "Masqat",
+        "capital": "Mascat",
         "language": ["Arabic"],
         "isd": ["+968"],
         "currency": "Omani Rial",
         "currency_code": "OMR",
         "country_code": "OM",
         "capital_geo": {
-            "lat": 0,
-            "lng": 0
+            "lat": 23.5882019,
+            "lng": 58.3829448
         }
 }, 
     {
@@ -2133,8 +2133,8 @@
         "currency_code": "PKR",
         "country_code": "PK",
         "capital_geo": {
-            "lat": 0,
-            "lng": 0
+            "lat": 33.6938118,
+            "lng": 73.0651511
         }
 }, 
     {
@@ -2146,8 +2146,8 @@
         "currency_code": "USD",
         "country_code": "PW",
         "capital_geo": {
-            "lat": 0,
-            "lng": 0
+            "lat": 7.343275,
+            "lng": 134.4766767
         }
 }, 
     {
@@ -2159,21 +2159,21 @@
         "currency_code": "",
         "country_code": "PS",
         "capital_geo": {
-            "lat": 0,
-            "lng": 0
+            "lat": 31.4432234,
+            "lng": 34.360007
         }
 }, 
     {
         "name": "Panama",
-        "capital": "Ciudad de Panam",
+        "capital": "Ciudad de Panama",
         "language": ["Spanish"],
         "isd": ["+507"],
         "currency": "United States Dollar",
         "currency_code": "USD",
         "country_code": "PA",
         "capital_geo": {
-            "lat": 0,
-            "lng": 0
+            "lat": 8.9714493,
+            "lng": -79.5341802
         }
 }, 
     {
@@ -2185,21 +2185,21 @@
         "currency_code": "PGK",
         "country_code": "PG",
         "capital_geo": {
-            "lat": 0,
-            "lng": 0
+            "lat": -9.4743301,
+            "lng": 147.1599504
         }
 }, 
     {
         "name": "Paraguay",
-        "capital": "Asunci",
+        "capital": "Asuncion",
         "language": ["Spanish", "Guarani"],
         "isd": ["+595"],
         "currency": "Paraguayan Guarani",
         "currency_code": "PYG",
         "country_code": "PY",
         "capital_geo": {
-            "lat": 0,
-            "lng": 0
+            "lat": -25.2800459,
+            "lng": -57.6343814
         }
 }, 
     {
@@ -2211,8 +2211,8 @@
         "currency_code": "PEN",
         "country_code": "PE",
         "capital_geo": {
-            "lat": 0,
-            "lng": 0
+            "lat": -12.0621065,
+            "lng": -77.0365256
         }
 }, 
     {
@@ -2224,8 +2224,8 @@
         "currency_code": "PHP",
         "country_code": "PH",
         "capital_geo": {
-            "lat": 0,
-            "lng": 0
+            "lat": 14.5948914,
+            "lng": 120.9782618
         }
 }, 
     {
@@ -2237,8 +2237,8 @@
         "currency_code": "NZD",
         "country_code": "PN",
         "capital_geo": {
-            "lat": 0,
-            "lng": 0
+            "lat": -25.066667,
+            "lng": -130.100205
         }
 }, 
     {
@@ -2250,8 +2250,8 @@
         "currency_code": "PLN",
         "country_code": "PL",
         "capital_geo": {
-            "lat": 0,
-            "lng": 0
+            "lat": 52.2319581,
+            "lng": 21.0067249
         }
 }, 
     {
@@ -2263,8 +2263,8 @@
         "currency_code": "EUR",
         "country_code": "PT",
         "capital_geo": {
-            "lat": 0,
-            "lng": 0
+            "lat": 38.7077507,
+            "lng": -9.1365919
         }
 }, 
     {
@@ -2276,8 +2276,8 @@
         "currency_code": "USD",
         "country_code": "PR",
         "capital_geo": {
-            "lat": 0,
-            "lng": 0
+            "lat": 18.465299,
+            "lng": -66.116666
         }
 }, 
     {
@@ -2289,8 +2289,8 @@
         "currency_code": "QAR",
         "country_code": "QA",
         "capital_geo": {
-            "lat": 0,
-            "lng": 0
+            "lat": 25.2856329,
+            "lng": 51.5264162
         }
 }, 
     {
@@ -2302,8 +2302,8 @@
         "currency_code": "EUR",
         "country_code": "RE",
         "capital_geo": {
-            "lat": 0,
-            "lng": 0
+            "lat": -20.8789,
+            "lng": 55.4481
         }
 }, 
     {
@@ -2315,8 +2315,8 @@
         "currency_code": "RON",
         "country_code": "RO",
         "capital_geo": {
-            "lat": 0,
-            "lng": 0
+            "lat": 44.4361414,
+            "lng": 26.1027202
         }
 }, 
     {
@@ -2328,8 +2328,8 @@
         "currency_code": "RUB",
         "country_code": "RU",
         "capital_geo": {
-            "lat": 0,
-            "lng": 0
+            "lat": 55.7504461,
+            "lng": 37.6174943
         }
 }, 
     {
@@ -2341,8 +2341,8 @@
         "currency_code": "RWF",
         "country_code": "RW",
         "capital_geo": {
-            "lat": 0,
-            "lng": 0
+            "lat": -1.950851,
+            "lng": 30.061507
         }
 }, 
     {
@@ -2354,8 +2354,8 @@
         "currency_code": "SHP",
         "country_code": "SH",
         "capital_geo": {
-            "lat": 0,
-            "lng": 0
+            "lat": -15.9277296,
+            "lng": -5.7160872
         }
 }, 
     {
@@ -2367,8 +2367,8 @@
         "currency_code": "XCD",
         "country_code": "KN",
         "capital_geo": {
-            "lat": 0,
-            "lng": 0
+            "lat": 17.2960919,
+            "lng": -62.722301
         }
 }, 
     {
@@ -2380,8 +2380,8 @@
         "currency_code": "XCD",
         "country_code": "LC",
         "capital_geo": {
-            "lat": 0,
-            "lng": 0
+            "lat": 13.9090438,
+            "lng": -60.9779241
         }
 }, 
     {
@@ -2393,8 +2393,8 @@
         "currency_code": "EUR",
         "country_code": "PM",
         "capital_geo": {
-            "lat": 0,
-            "lng": 0
+            "lat": 46.7775497,
+            "lng": -56.1768672
         }
 }, 
     {
@@ -2406,8 +2406,8 @@
         "currency_code": "XCD",
         "country_code": "VC",
         "capital_geo": {
-            "lat": 0,
-            "lng": 0
+            "lat": 13.157778,
+            "lng": -61.225
         }
 }, 
     {
@@ -2419,8 +2419,8 @@
         "currency_code": "WST",
         "country_code": "WS",
         "capital_geo": {
-            "lat": 0,
-            "lng": 0
+            "lat": -13.8343691,
+            "lng": -171.7692793
         }
 }, 
     {
@@ -2432,8 +2432,8 @@
         "currency_code": "EUR",
         "country_code": "SM",
         "capital_geo": {
-            "lat": 0,
-            "lng": 0
+            "lat": 43.9458623,
+            "lng": 12.458306
         }
 }, 
     {
@@ -2445,8 +2445,8 @@
         "currency_code": "STN",
         "country_code": "ST",
         "capital_geo": {
-            "lat": 0,
-            "lng": 0
+            "lat": 0.3389242,
+            "lng": 6.7313031
         }
 }, 
     {
@@ -2458,8 +2458,8 @@
         "currency_code": "SAR",
         "country_code": "SA",
         "capital_geo": {
-            "lat": 0,
-            "lng": 0
+            "lat": 24.638916,
+            "lng": 46.7160104
         }
 }, 
     {
@@ -2471,8 +2471,8 @@
         "currency_code": "XOF",
         "country_code": "SN",
         "capital_geo": {
-            "lat": 0,
-            "lng": 0
+            "lat": 14.693425,
+            "lng": -17.447938
         }
 }, 
     {
@@ -2484,8 +2484,8 @@
         "currency_code": "",
         "country_code": "CS",
         "capital_geo": {
-            "lat": 0,
-            "lng": 0
+            "lat": 44.8178131,
+            "lng": 20.4568974
         }
 }, 
     {
@@ -2497,8 +2497,8 @@
         "currency_code": "SCR",
         "country_code": "SC",
         "capital_geo": {
-            "lat": 0,
-            "lng": 0
+            "lat": -4.6232085,
+            "lng": 55.452359
         }
 }, 
     {
@@ -2510,8 +2510,8 @@
         "currency_code": "SLL",
         "country_code": "SL",
         "capital_geo": {
-            "lat": 0,
-            "lng": 0
+            "lat": 8.479004,
+            "lng": -13.26795
         }
 }, 
     {
@@ -2523,8 +2523,8 @@
         "currency_code": "SGD",
         "country_code": "SG",
         "capital_geo": {
-            "lat": 0,
-            "lng": 0
+            "lat": 1.357107,
+            "lng": 103.8194992
         }
 }, 
     {
@@ -2536,8 +2536,8 @@
         "currency_code": "EUR",
         "country_code": "SK",
         "capital_geo": {
-            "lat": 0,
-            "lng": 0
+            "lat": 48.1435149,
+            "lng": 17.108279
         }
 }, 
     {
@@ -2549,8 +2549,8 @@
         "currency_code": "EUR",
         "country_code": "SI",
         "capital_geo": {
-            "lat": 0,
-            "lng": 0
+            "lat": 46.0500268,
+            "lng": 14.5069289
         }
 }, 
     {
@@ -2562,8 +2562,8 @@
         "currency_code": "SBD",
         "country_code": "SB",
         "capital_geo": {
-            "lat": 0,
-            "lng": 0
+            "lat": -9.4377975,
+            "lng": 159.9624175
         }
 }, 
     {
