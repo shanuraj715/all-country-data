@@ -12,10 +12,11 @@ let searchByLanguage = require('./dist/searchByLanguage')
 let count = require('./dist/count')
 let findCountryByCapital = require('./dist/findCountryByCapital')
 let flag = require('./dist/flag')
+let capitalGeo = require('./dist/capitalGeo')
 
 const countries = {
     countryList, countryCurrencyList, countryIsdCodeList, countryCapitalList,
-    countryLanguageList, all, count,
+    countryLanguageList, capitalGeo, all, count,
     findCountryByCapital: cap => findCountryByCapital( cap ),
     findByCountryName: name => findByCountryName(name),
     findByCountryCode: code => findByCountryCode( code ),
