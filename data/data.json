@@ -937,8 +937,8 @@
         "currency_code": "EUR",
         "country_code": "FR",
         "capital_geo": {
-            "lat": 0,
-            "lng": 0
+            "lat": 48.8534951,
+            "lng": 2.3483915
         }
 }, 
     {
@@ -950,8 +950,8 @@
         "currency_code": "EUR",
         "country_code": "GF",
         "capital_geo": {
-            "lat": 0,
-            "lng": 0
+            "lat": 4.9371143,
+            "lng": -52.3258307
         }
 }, 
     {
@@ -963,8 +963,8 @@
         "currency_code": "XPF",
         "country_code": "PF",
         "capital_geo": {
-            "lat": 0,
-            "lng": 0
+            "lat": -17.5373835,
+            "lng": -149.5659964
         }
 }, 
     {
@@ -976,8 +976,8 @@
         "currency_code": "EUR",
         "country_code": "TF",
         "capital_geo": {
-            "lat": 0,
-            "lng": 0
+            "lat": null,
+            "lng": null
         }
 }, 
     {
@@ -989,8 +989,8 @@
         "currency_code": "XAF",
         "country_code": "GA",
         "capital_geo": {
-            "lat": 0,
-            "lng": 0
+            "lat": 0.390002,
+            "lng": 9.454001
         }
 }, 
     {
@@ -1002,8 +1002,8 @@
         "currency_code": "GMD",
         "country_code": "GM",
         "capital_geo": {
-            "lat": 0,
-            "lng": 0
+            "lat": 13.4410165,
+            "lng": -16.5627509
         }
 }, 
     {
@@ -1015,8 +1015,8 @@
         "currency_code": "GEL",
         "country_code": "GE",
         "capital_geo": {
-            "lat": 0,
-            "lng": 0
+            "lat": 41.6934591,
+            "lng": 44.8014495
         }
 }, 
     {
@@ -1028,8 +1028,8 @@
         "currency_code": "EUR",
         "country_code": "DE",
         "capital_geo": {
-            "lat": 0,
-            "lng": 0
+            "lat": 52.5170365,
+            "lng": 13.3888599
         }
 }, 
     {
@@ -1041,8 +1041,8 @@
         "currency_code": "GHS",
         "country_code": "GH",
         "capital_geo": {
-            "lat": 0,
-            "lng": 0
+            "lat": 5.5571096,
+            "lng": -0.2012376
         }
 }, 
     {
@@ -1054,8 +1054,8 @@
         "currency_code": "GIP",
         "country_code": "GI",
         "capital_geo": {
-            "lat": 0,
-            "lng": 0
+            "lat": 36.1285933,
+            "lng": -5.3474761
         }
 }, 
     {
@@ -1067,8 +1067,8 @@
         "currency_code": "EUR",
         "country_code": "GR",
         "capital_geo": {
-            "lat": 0,
-            "lng": 0
+            "lat": 37.9839412,
+            "lng": 23.7283052
         }
 }, 
     {
@@ -1080,8 +1080,8 @@
         "currency_code": "DKK",
         "country_code": "GL",
         "capital_geo": {
-            "lat": 0,
-            "lng": 0
+            "lat": 64.175029,
+            "lng": -51.7355386
         }
 }, 
     {
@@ -1093,8 +1093,8 @@
         "currency_code": "XCD",
         "country_code": "GD",
         "capital_geo": {
-            "lat": 0,
-            "lng": 0
+            "lat": 12.0535331,
+            "lng": -61.751805
         }
 }, 
     {
@@ -1106,21 +1106,21 @@
         "currency_code": "EUR",
         "country_code": "GP",
         "capital_geo": {
-            "lat": 0,
-            "lng": 0
+            "lat": 16.0000778,
+            "lng": -61.7333373
         }
 }, 
     {
         "name": "Guam",
-        "capital": "Aga",
+        "capital": "Hagatna",
         "language": [""],
         "isd": ["+1671"],
         "currency": "United States Dollar",
         "currency_code": "USD",
         "country_code": "GU",
         "capital_geo": {
-            "lat": 0,
-            "lng": 0
+            "lat": 13.47567,
+            "lng": 144.74886
         }
 }, 
     {
@@ -1132,8 +1132,8 @@
         "currency_code": "GTQ",
         "country_code": "GT",
         "capital_geo": {
-            "lat": 0,
-            "lng": 0
+            "lat": 14.6222328,
+            "lng": -90.5185188
         }
 }, 
     {
@@ -1145,8 +1145,8 @@
         "currency_code": "GGP",
         "country_code": "GG",
         "capital_geo": {
-            "lat": 0,
-            "lng": 0
+            "lat": 49.4568142,
+            "lng": -2.5389979
         }
 }, 
     {
@@ -1158,8 +1158,8 @@
         "currency_code": "GNF",
         "country_code": "GN",
         "capital_geo": {
-            "lat": 0,
-            "lng": 0
+            "lat": 9.5170602,
+            "lng": -13.6998434
         }
 }, 
     {
@@ -1171,8 +1171,8 @@
         "currency_code": "XOF",
         "country_code": "GW",
         "capital_geo": {
-            "lat": 0,
-            "lng": 0
+            "lat": 11.861324,
+            "lng": -15.583055
         }
 }, 
     {
@@ -1184,8 +1184,8 @@
         "currency_code": "GYD",
         "country_code": "GY",
         "capital_geo": {
-            "lat": 0,
-            "lng": 0
+            "lat": 6.8137426,
+            "lng": -58.1624465
         }
 }, 
     {
@@ -1197,8 +1197,8 @@
         "currency_code": "HTG",
         "country_code": "HT",
         "capital_geo": {
-            "lat": 0,
-            "lng": 0
+            "lat": 18.547327,
+            "lng": -72.3395928
         }
 }, 
     {
@@ -1210,8 +1210,8 @@
         "currency_code": "AUD",
         "country_code": "HM",
         "capital_geo": {
-            "lat": 0,
-            "lng": 0
+            "lat": null,
+            "lng": null
         }
 },
     {
@@ -1236,8 +1236,8 @@
         "currency_code": "HKD",
         "country_code": "HK",
         "capital_geo": {
-            "lat": 0,
-            "lng": 0
+            "lat": 22.2815975,
+            "lng": 114.1206707
         }
 }, 
     {
@@ -1249,21 +1249,21 @@
         "currency_code": "HUF",
         "country_code": "HU",
         "capital_geo": {
-            "lat": 0,
-            "lng": 0
+            "lat": 47.4979937,
+            "lng": 19.0403594
         }
 }, 
     {
         "name": "Iceland",
-        "capital": "Reykjav",
+        "capital": "Reykjavik",
         "language": ["Icelandic"],
         "isd": ["+354"],
         "currency": "Icelandic Krona",
         "currency_code": "ISK",
         "country_code": "IS",
         "capital_geo": {
-            "lat": 0,
-            "lng": 0
+            "lat": 64.145981,
+            "lng": -21.9422367
         }
 }, 
     {
@@ -1275,8 +1275,8 @@
         "currency_code": "INR",
         "country_code": "IN",
         "capital_geo": {
-            "lat": 0,
-            "lng": 0
+            "lat": 28.6138954,
+            "lng": 77.2090057
         }
 }, 
     {
@@ -1288,8 +1288,8 @@
         "currency_code": "IDR",
         "country_code": "ID",
         "capital_geo": {
-            "lat": 0,
-            "lng": 0
+            "lat": -6.1753942,
+            "lng": 106.827183
         }
 }, 
     {
@@ -1301,8 +1301,8 @@
         "currency_code": "IRR",
         "country_code": "IR",
         "capital_geo": {
-            "lat": 0,
-            "lng": 0
+            "lat": 35.6892523,
+            "lng": 51.3896004
         }
 }, 
     {
@@ -1314,8 +1314,8 @@
         "currency_code": "IQD",
         "country_code": "IQ",
         "capital_geo": {
-            "lat": 0,
-            "lng": 0
+            "lat": 33.3061701,
+            "lng": 44.3872213
         }
 }, 
     {
@@ -1327,8 +1327,8 @@
         "currency_code": "EUR",
         "country_code": "IE",
         "capital_geo": {
-            "lat": 0,
-            "lng": 0
+            "lat": 53.3497645,
+            "lng": -6.2602732
         }
 }, 
     {
@@ -1340,8 +1340,8 @@
         "currency_code": "IMP",
         "country_code": "IM",
         "capital_geo": {
-            "lat": 0,
-            "lng": 0
+            "lat": 54.149774,
+            "lng": -4.4779021
         }
 }, 
     {
@@ -1353,21 +1353,21 @@
         "currency_code": "ILS",
         "country_code": "IL",
         "capital_geo": {
-            "lat": 0,
-            "lng": 0
+            "lat": 31.7788242,
+            "lng": 35.2257626
         }
 }, 
     {
         "name": "Italy",
-        "capital": "Roma",
+        "capital": "Rome",
         "language": ["Italian"],
         "isd": ["+39"],
         "currency": "European Euro",
         "currency_code": "EUR",
         "country_code": "IT",
         "capital_geo": {
-            "lat": 0,
-            "lng": 0
+            "lat": 41.8933203,
+            "lng": 12.4829321
         }
 },
     {
@@ -1379,8 +1379,8 @@
         "currency_code": "XOF",
         "country_code": "CI",
         "capital_geo": {
-            "lat": 0,
-            "lng": 0
+            "lat": 6.809107,
+            "lng": -5.273263
         }
 }, 
     {
@@ -1392,8 +1392,8 @@
         "currency_code": "JMD",
         "country_code": "JM",
         "capital_geo": {
-            "lat": 0,
-            "lng": 0
+            "lat": 17.9712148,
+            "lng": -76.7928128
         }
 }, 
     {
@@ -1405,8 +1405,8 @@
         "currency_code": "JPY",
         "country_code": "JP",
         "capital_geo": {
-            "lat": 0,
-            "lng": 0
+            "lat": 35.6828387,
+            "lng": 139.7594549
         }
 }, 
     {
