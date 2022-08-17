@@ -10,7 +10,10 @@
         "capital_geo": {
             "lat": 60.0878638,
             "lng": 19.9471063
-        }
+        },
+        "borders": [
+            "SE"
+        ]
     }, 
     {
         "name": "Afghanistan",
