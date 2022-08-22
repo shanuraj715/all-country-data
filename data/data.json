@@ -1,9 +1,13 @@
-[ 
+[
     {
         "name": "Aland Islands",
         "capital": "Mariehamn",
-        "language": ["Swedish"],
-        "isd": ["+35818"],
+        "language": [
+            "Swedish"
+        ],
+        "isd": [
+            "+35818"
+        ],
         "currency": "European Euro",
         "currency_code": "EUR",
         "country_code": "AX",
@@ -14,3164 +18,5014 @@
         "borders": [
             "SE"
         ]
-    }, 
+    },
     {
         "name": "Afghanistan",
         "capital": "Kabul",
-        "language": ["Pasto", "Dari"],
-        "isd": ["+93"],
+        "language": [
+            "Pasto",
+            "Dari"
+        ],
+        "isd": [
+            "+93"
+        ],
         "currency": "Afghan Afghani",
         "currency_code": "AFN",
         "country_code": "AF",
         "capital_geo": {
             "lat": 34.5260109,
             "lng": 69.1776838
-        }
-    }, 
+        },
+        "borders": [
+            "SE"
+        ]
+    },
     {
         "name": "Albania",
         "capital": "Tirana",
-        "language": ["Albanian"],
-        "isd": ["+355"],
+        "language": [
+            "Albanian"
+        ],
+        "isd": [
+            "+355"
+        ],
         "currency": "Albanian Lek",
         "currency_code": "ALL",
         "country_code": "AL",
         "capital_geo": {
             "lat": 41.3305141,
             "lng": 19.8255629
-        }
-    }, 
+        },
+        "borders": [
+            "SE"
+        ]
+    },
     {
         "name": "Algeria",
         "capital": "Alger",
-        "language": ["Arabic", "Tamazight"],
-        "isd": ["+213"],
+        "language": [
+            "Arabic",
+            "Tamazight"
+        ],
+        "isd": [
+            "+213"
+        ],
         "currency": "Algerian Dinar",
         "currency_code": "DZD",
         "country_code": "DZ",
         "capital_geo": {
             "lat": 36.7753606,
             "lng": 3.0601882
-        }
-    }, 
+        },
+        "borders": [
+            "SE"
+        ]
+    },
     {
         "name": "American Samoa",
         "capital": "Fagatogo",
-        "language": ["Samoan", "English"],
-        "isd": ["+1684"],
+        "language": [
+            "Samoan",
+            "English"
+        ],
+        "isd": [
+            "+1684"
+        ],
         "currency": "United States Dollar",
         "currency_code": "USD",
         "country_code": "AS",
         "capital_geo": {
             "lat": -14.2787457,
             "lng": -170.690928
-        }
-}, 
+        },
+        "borders": [
+            "SE"
+        ]
+    },
     {
         "name": "Andorra",
         "capital": "Andorra la Vella",
-        "language": ["Catalan"],
-        "isd": ["+376"],
+        "language": [
+            "Catalan"
+        ],
+        "isd": [
+            "+376"
+        ],
         "currency": "European Euro",
         "currency_code": "EUR",
         "country_code": "AD",
         "capital_geo": {
             "lat": 42.5069391,
             "lng": 1.5212467
-        }
-}, 
+        },
+        "borders": [
+            "SE"
+        ]
+    },
     {
         "name": "Angola",
         "capital": "Luanda",
-        "language": ["Portuguese"],
-        "isd": ["+244"],
+        "language": [
+            "Portuguese"
+        ],
+        "isd": [
+            "+244"
+        ],
         "currency": "Angolan Kwanza",
         "currency_code": "AOA",
         "country_code": "AO",
         "capital_geo": {
             "lat": -8.8272699,
             "lng": 13.2439512
-        }
-}, 
+        },
+        "borders": [
+            "SE"
+        ]
+    },
     {
         "name": "Anguilla",
         "capital": "The Valley",
-        "language": ["English"],
-        "isd": ["+1264"],
+        "language": [
+            "English"
+        ],
+        "isd": [
+            "+1264"
+        ],
         "currency": "East Caribbean Dollar",
         "currency_code": "XCD",
         "country_code": "AI",
         "capital_geo": {
             "lat": 18.2145861,
             "lng": -63.0517759
-        }
-}, 
+        },
+        "borders": [
+            "SE"
+        ]
+    },
     {
         "name": "Antarctica",
         "capital": null,
-        "language": ["Russian", "English"],
-        "isd": ["+672"],
+        "language": [
+            "Russian",
+            "English"
+        ],
+        "isd": [
+            "+672"
+        ],
         "currency": null,
         "currency_code": null,
         "country_code": "AQ",
         "capital_geo": {
             "lat": null,
             "lng": null
-        }
-}, 
+        },
+        "borders": [
+            "SE"
+        ]
+    },
     {
         "name": "Antigua and Barbuda",
         "capital": "Saint John's",
-        "language": ["English"],
-        "isd": ["+1268"],
+        "language": [
+            "English"
+        ],
+        "isd": [
+            "+1268"
+        ],
         "currency": "East Caribbean Dollar",
         "currency_code": "XCD",
         "country_code": "AG",
         "capital_geo": {
             "lat": 17.1184569,
             "lng": -61.8448509
-        }
-}, 
+        },
+        "borders": [
+            "SE"
+        ]
+    },
     {
         "name": "Argentina",
         "capital": "Buenos Aires",
-        "language": ["Spanish"],
-        "isd": ["+54"],
+        "language": [
+            "Spanish"
+        ],
+        "isd": [
+            "+54"
+        ],
         "currency": "Argentine Peso",
         "currency_code": "ARS",
         "country_code": "AR",
         "capital_geo": {
             "lat": -34.6075682,
             "lng": -58.4370894
-        }
-}, 
+        },
+        "borders": [
+            "SE"
+        ]
+    },
     {
         "name": "Armenia",
         "capital": "Yerevan",
-        "language": ["Armeninan"],
-        "isd": ["+374"],
+        "language": [
+            "Armeninan"
+        ],
+        "isd": [
+            "+374"
+        ],
         "currency": "Armenian Dram",
         "currency_code": "AMD",
         "country_code": "AM",
         "capital_geo": {
             "lat": 40.1776245,
             "lng": 44.5126174
-        }
-}, 
+        },
+        "borders": [
+            "SE"
+        ]
+    },
     {
         "name": "Aruba",
         "capital": "Oranjestad",
-        "language": ["Dutch", "Papiamento"],
-        "isd": ["+297"],
+        "language": [
+            "Dutch",
+            "Papiamento"
+        ],
+        "isd": [
+            "+297"
+        ],
         "currency": "Aruban Florin",
         "currency_code": "AWG",
         "country_code": "AW",
         "capital_geo": {
             "lat": 12.5268736,
             "lng": -70.0356845
-        }
-}, 
+        },
+        "borders": [
+            "SE"
+        ]
+    },
     {
         "name": "Australia",
         "capital": "Canberra",
-        "language": ["English"],
-        "isd": ["+61"],
+        "language": [
+            "English"
+        ],
+        "isd": [
+            "+61"
+        ],
         "currency": "Australian Dollar",
         "currency_code": "AUD",
         "country_code": "AU",
         "capital_geo": {
             "lat": -35.2975906,
             "lng": 149.1012676
-        }
-}, 
+        },
+        "borders": [
+            "SE"
+        ]
+    },
     {
         "name": "Austria",
         "capital": "Wien",
-        "language": ["German"],
-        "isd": ["+43"],
+        "language": [
+            "German"
+        ],
+        "isd": [
+            "+43"
+        ],
         "currency": "European Euro",
         "currency_code": "EUR",
         "country_code": "AT",
         "capital_geo": {
             "lat": 48.2083537,
             "lng": 16.3725042
-        }
-}, 
+        },
+        "borders": [
+            "SE"
+        ]
+    },
     {
         "name": "Azerbaijan",
         "capital": "Baku",
-        "language": ["Azerbaijani"],
-        "isd": ["+994"],
+        "language": [
+            "Azerbaijani"
+        ],
+        "isd": [
+            "+994"
+        ],
         "currency": "Azerbaijan Manat",
         "currency_code": "AZN",
         "country_code": "AZ",
         "capital_geo": {
             "lat": 40.3754434,
             "lng": 49.8326748
-        }
-}, 
+        },
+        "borders": [
+            "SE"
+        ]
+    },
     {
         "name": "Bahamas",
         "capital": "Nassau",
-        "language": ["English"],
-        "isd": ["+1242"],
+        "language": [
+            "English"
+        ],
+        "isd": [
+            "+1242"
+        ],
         "currency": "Bahamian Dollar",
         "currency_code": "BSD",
         "country_code": "BS",
         "capital_geo": {
             "lat": 25.0783456,
             "lng": -77.3383331
-        }
-}, 
+        },
+        "borders": [
+            "SE"
+        ]
+    },
     {
         "name": "Bahrain",
         "capital": "al-Manama",
-        "language": ["Arabic"],
-        "isd": ["+973"],
+        "language": [
+            "Arabic"
+        ],
+        "isd": [
+            "+973"
+        ],
         "currency": "Bahraini Dinar",
         "currency_code": "BHD",
         "country_code": "BH",
         "capital_geo": {
             "lat": 26.2235041,
             "lng": 50.5822436
-        }
-}, 
+        },
+        "borders": [
+            "SE"
+        ]
+    },
     {
         "name": "Bangladesh",
         "capital": "Dhaka",
-        "language": ["Bengali"],
-        "isd": ["+880"],
+        "language": [
+            "Bengali"
+        ],
+        "isd": [
+            "+880"
+        ],
         "currency": "Bangladeshi Taka",
         "currency_code": "BDT",
         "country_code": "BD",
         "capital_geo": {
             "lat": 23.7644025,
             "lng": 90.389015
-        }
-}, 
+        },
+        "borders": [
+            "SE"
+        ]
+    },
     {
         "name": "Barbados",
         "capital": "Bridgetown",
-        "language": ["English"],
-        "isd": ["+1246"],
+        "language": [
+            "English"
+        ],
+        "isd": [
+            "+1246"
+        ],
         "currency": "Barbadian Dollar",
         "currency_code": "BBD",
         "country_code": "BB",
         "capital_geo": {
             "lat": 13.0977832,
             "lng": -59.6184184
-        }
-}, 
+        },
+        "borders": [
+            "SE"
+        ]
+    },
     {
         "name": "Belarus",
         "capital": "Minsk",
-        "language": ["Belarusian", "Russian"],
-        "isd": ["+375"],
+        "language": [
+            "Belarusian",
+            "Russian"
+        ],
+        "isd": [
+            "+375"
+        ],
         "currency": "Belarusian Ruble",
         "currency_code": "BYN",
         "country_code": "BY",
         "capital_geo": {
             "lat": 53.9024716,
             "lng": 27.5618225
-        }
-}, 
+        },
+        "borders": [
+            "SE"
+        ]
+    },
     {
         "name": "Belgium",
         "capital": "Brussel",
-        "language": ["Dutch", "French", "German"],
-        "isd": ["+32"],
+        "language": [
+            "Dutch",
+            "French",
+            "German"
+        ],
+        "isd": [
+            "+32"
+        ],
         "currency": "European Euro",
         "currency_code": "EUR",
         "country_code": "BE",
         "capital_geo": {
             "lat": 50.8465573,
             "lng": 4.351697
-        }
-}, 
+        },
+        "borders": [
+            "SE"
+        ]
+    },
     {
         "name": "Belize",
         "capital": "Belmopan",
-        "language": ["English"],
-        "isd": ["+501"],
+        "language": [
+            "English"
+        ],
+        "isd": [
+            "+501"
+        ],
         "currency": "Belize Dollar",
         "currency_code": "BZD",
         "country_code": "BZ",
         "capital_geo": {
             "lat": 17.250199,
             "lng": -88.770018
-        }
-}, 
+        },
+        "borders": [
+            "SE"
+        ]
+    },
     {
         "name": "Benin",
         "capital": "Porto-Novo",
-        "language": ["French"],
-        "isd": ["+229"],
+        "language": [
+            "French"
+        ],
+        "isd": [
+            "+229"
+        ],
         "currency": "West African CFA Franc",
         "currency_code": "XOF",
         "country_code": "BJ",
         "capital_geo": {
             "lat": 6.4990718,
             "lng": 2.6253361
-        }
-}, 
+        },
+        "borders": [
+            "SE"
+        ]
+    },
     {
         "name": "Bermuda",
         "capital": "Hamilton",
-        "language": ["English"],
-        "isd": ["+1441"],
+        "language": [
+            "English"
+        ],
+        "isd": [
+            "+1441"
+        ],
         "currency": "Bermudian Dollar",
         "currency_code": "BMD",
         "country_code": "BM",
         "capital_geo": {
             "lat": 32.2956076,
             "lng": -64.7827048
-        }
-}, 
+        },
+        "borders": [
+            "SE"
+        ]
+    },
     {
         "name": "Bhutan",
         "capital": "Thimphu",
-        "language": ["Dzongkha"],
-        "isd": ["+975"],
+        "language": [
+            "Dzongkha"
+        ],
+        "isd": [
+            "+975"
+        ],
         "currency": "Bhutanese Ngultrum",
         "currency_code": "BTN",
         "country_code": "BT",
         "capital_geo": {
             "lat": 27.4713546,
             "lng": 89.6336729
-        }
-}, 
+        },
+        "borders": [
+            "SE"
+        ]
+    },
     {
         "name": "Bolivia",
         "capital": "La Paz",
-        "language": ["Castilian", "Aymara", "Araona", "Baure", "Besiro",
-            "Canichana", "Cavineno", "Cayubaba", "Chacobo", "Chiman", "Ese Ejja",
-            "Guarani", "Guarasu'we", "Guarayu", "Itonama", "Leco", "Machajuyai Kallawaya",
-            "Machineri", "Maropa", "Mojeno Ignaciano", "Mojeno Trinitario", "More", "Moseten",
-            "Movima", "Pacawara", "Puquina", "Quechua", "Siriono", "Tacana",
-            "Tapiete", "Toromona", "Uru Chipaya", "Weenhayek", "Yaminawa", "Yuki",
-            "Yuracare", "Zamuco"],
-        "isd": ["+591"],
+        "language": [
+            "Castilian",
+            "Aymara",
+            "Araona",
+            "Baure",
+            "Besiro",
+            "Canichana",
+            "Cavineno",
+            "Cayubaba",
+            "Chacobo",
+            "Chiman",
+            "Ese Ejja",
+            "Guarani",
+            "Guarasu'we",
+            "Guarayu",
+            "Itonama",
+            "Leco",
+            "Machajuyai Kallawaya",
+            "Machineri",
+            "Maropa",
+            "Mojeno Ignaciano",
+            "Mojeno Trinitario",
+            "More",
+            "Moseten",
+            "Movima",
+            "Pacawara",
+            "Puquina",
+            "Quechua",
+            "Siriono",
+            "Tacana",
+            "Tapiete",
+            "Toromona",
+            "Uru Chipaya",
+            "Weenhayek",
+            "Yaminawa",
+            "Yuki",
+            "Yuracare",
+            "Zamuco"
+        ],
+        "isd": [
+            "+591"
+        ],
         "currency": "Bolivian Boliviano",
         "currency_code": "BOB",
         "country_code": "BO",
         "capital_geo": {
             "lat": -16.4955455,
             "lng": -68.1336229
-        }
-}, 
+        },
+        "borders": [
+            "SE"
+        ]
+    },
     {
         "name": "Bosnia and Herzegovina",
         "capital": "Sarajevo",
-        "language": ["Bosnian", "Croatian", "Serbian"],
-        "isd": ["+387"],
+        "language": [
+            "Bosnian",
+            "Croatian",
+            "Serbian"
+        ],
+        "isd": [
+            "+387"
+        ],
         "currency": "Bosnia and Herzegovina Convertible Mark",
         "currency_code": "BAM",
         "country_code": "BA",
         "capital_geo": {
             "lat": 43.8519774,
             "lng": 18.3866868
-        }
-}, 
+        },
+        "borders": [
+            "SE"
+        ]
+    },
     {
         "name": "Botswana",
         "capital": "Gaborone",
-        "language": ["English", "Tswana"],
-        "isd": ["+267"],
+        "language": [
+            "English",
+            "Tswana"
+        ],
+        "isd": [
+            "+267"
+        ],
         "currency": "Botswana Pula",
         "currency_code": "BWP",
         "country_code": "BW",
         "capital_geo": {
             "lat": -24.6581357,
             "lng": 25.9088474
-        }
-}, 
+        },
+        "borders": [
+            "SE"
+        ]
+    },
     {
         "name": "Bouvet Island",
         "capital": null,
-        "language": [""],
-        "isd": ["+47"],
+        "language": [
+            ""
+        ],
+        "isd": [
+            "+47"
+        ],
         "currency": null,
         "currency_code": null,
         "country_code": "BV",
         "capital_geo": {
             "lat": null,
             "lng": null
-        }
-}, 
+        },
+        "borders": [
+            "SE"
+        ]
+    },
     {
         "name": "Brazil",
         "capital": "Brasilia",
-        "language": ["Portuguese"],
-        "isd": ["+55"],
+        "language": [
+            "Portuguese"
+        ],
+        "isd": [
+            "+55"
+        ],
         "currency": "Brazilian Real",
         "currency_code": "BRL",
         "country_code": "BR",
         "capital_geo": {
             "lat": -15.796187,
             "lng": -47.883224
-        }
-}, 
+        },
+        "borders": [
+            "SE"
+        ]
+    },
     {
         "name": "British Indian Ocean Territory",
         "capital": null,
-        "language": ["English"],
-        "isd": ["+246"],
+        "language": [
+            "English"
+        ],
+        "isd": [
+            "+246"
+        ],
         "currency": "United States Dollar",
         "currency_code": "USD",
         "country_code": "IO",
         "capital_geo": {
             "lat": null,
             "lng": null
-        }
-}, 
+        },
+        "borders": [
+            "SE"
+        ]
+    },
     {
         "name": "Brunei Darussalam",
         "capital": "Bandar Seri Begawan",
-        "language": ["Malay", "English"],
-        "isd": ["+673"],
+        "language": [
+            "Malay",
+            "English"
+        ],
+        "isd": [
+            "+673"
+        ],
         "currency": "Brunei Dollar",
         "currency_code": "BND",
         "country_code": "BN",
         "capital_geo": {
             "lat": 4.8895453,
             "lng": 114.9417574
-        }
-}, 
+        },
+        "borders": [
+            "SE"
+        ]
+    },
     {
         "name": "Bulgaria",
         "capital": "Sofia",
-        "language": ["Bulgarian"],
-        "isd": ["+359"],
+        "language": [
+            "Bulgarian"
+        ],
+        "isd": [
+            "+359"
+        ],
         "currency": "Bulgarian Lev",
         "currency_code": "BGN",
         "country_code": "BG",
         "capital_geo": {
             "lat": 42.6978634,
             "lng": 23.3221789
-        }
-}, 
+        },
+        "borders": [
+            "SE"
+        ]
+    },
     {
         "name": "Burkina Faso",
         "capital": "Ouagadougou",
-        "language": ["French"],
-        "isd": ["+226"],
+        "language": [
+            "French"
+        ],
+        "isd": [
+            "+226"
+        ],
         "currency": "West African CFA Franc",
         "currency_code": "XOF",
         "country_code": "BF",
         "capital_geo": {
             "lat": 12.3681873,
             "lng": -1.5270944
-        }
-}, 
+        },
+        "borders": [
+            "SE"
+        ]
+    },
     {
         "name": "Burundi",
         "capital": "Bujumbura",
-        "language": ["French", "Kirundi", "English"],
-        "isd": ["+257"],
+        "language": [
+            "French",
+            "Kirundi",
+            "English"
+        ],
+        "isd": [
+            "+257"
+        ],
         "currency": "Burundi Franc",
         "currency_code": "BIF",
         "country_code": "BI",
         "capital_geo": {
             "lat": -3.361260,
             "lng": 29.347916
-        }
-}, 
+        },
+        "borders": [
+            "SE"
+        ]
+    },
     {
         "name": "Cambodia",
         "capital": "Phnom Penh",
-        "language": ["Khmer"],
-        "isd": ["+855"],
+        "language": [
+            "Khmer"
+        ],
+        "isd": [
+            "+855"
+        ],
         "currency": "Cambodian Riel",
         "currency_code": "KHR",
         "country_code": "KH",
         "capital_geo": {
             "lat": 11.568271,
             "lng": 104.9224426
-        }
-}, 
+        },
+        "borders": [
+            "SE"
+        ]
+    },
     {
         "name": "Cameroon",
         "capital": "Yaounde",
-        "language": ["English", "French"],
-        "isd": ["+237"],
+        "language": [
+            "English",
+            "French"
+        ],
+        "isd": [
+            "+237"
+        ],
         "currency": "Central African CFA Franc",
         "currency_code": "XAF",
         "country_code": "CM",
         "capital_geo": {
             "lat": 3.8689867,
             "lng": 11.5213344
-        }
-}, 
+        },
+        "borders": [
+            "SE"
+        ]
+    },
     {
         "name": "Canada",
         "capital": "Ottawa",
-        "language": ["English", "French"],
-        "isd": ["+1"],
+        "language": [
+            "English",
+            "French"
+        ],
+        "isd": [
+            "+1"
+        ],
         "currency": "Canadian Dollar",
         "currency_code": "CAD",
         "country_code": "CA",
         "capital_geo": {
             "lat": 45.4208777,
             "lng": -75.6901106
-        }
-}, 
+        },
+        "borders": [
+            "SE"
+        ]
+    },
     {
         "name": "Cape Verde",
         "capital": "Praia",
-        "language": ["Portuguese"],
-        "isd": ["+238"],
+        "language": [
+            "Portuguese"
+        ],
+        "isd": [
+            "+238"
+        ],
         "currency": "Cape Verdean Escudo",
         "currency_code": "CVE",
         "country_code": "CV",
         "capital_geo": {
             "lat": 14.9162811,
             "lng": -23.5095095
-        }
-}, 
+        },
+        "borders": [
+            "SE"
+        ]
+    },
     {
         "name": "Cayman Islands",
         "capital": "George Town",
-        "language": [""],
-        "isd": ["+1345"],
+        "language": [
+            ""
+        ],
+        "isd": [
+            "+1345"
+        ],
         "currency": "Cayman Islands Dollar",
         "currency_code": "KYD",
         "country_code": "KY",
         "capital_geo": {
             "lat": 19.29109764099121,
             "lng": -81.38329315185547
-        }
-}, 
+        },
+        "borders": [
+            "SE"
+        ]
+    },
     {
         "name": "Central African Republic",
         "capital": "Bangui",
-        "language": ["French"],
-        "isd": ["+236"],
+        "language": [
+            "French"
+        ],
+        "isd": [
+            "+236"
+        ],
         "currency": "Central African CFA Franc",
         "currency_code": "XAF",
         "country_code": "CF",
         "capital_geo": {
             "lat": 4.3907153,
             "lng": 18.5509126
-        }
-}, 
+        },
+        "borders": [
+            "SE"
+        ]
+    },
     {
         "name": "Chad",
         "capital": "N'Djamena",
-        "language": ["Arabic", "French"],
-        "isd": ["+235"],
+        "language": [
+            "Arabic",
+            "French"
+        ],
+        "isd": [
+            "+235"
+        ],
         "currency": "Central African CFA Franc",
         "currency_code": "XAF",
         "country_code": "TD",
         "capital_geo": {
             "lat": 12.1191543,
             "lng": 15.0502758
-        }
-}, 
+        },
+        "borders": [
+            "SE"
+        ]
+    },
     {
         "name": "Chile",
         "capital": "Santiago de Chile",
-        "language": ["Spanish"],
-        "isd": ["+56"],
+        "language": [
+            "Spanish"
+        ],
+        "isd": [
+            "+56"
+        ],
         "currency": "Chilean Peso",
         "currency_code": "CLP",
         "country_code": "CL",
         "capital_geo": {
             "lat": -33.4377756,
             "lng": -70.6504502
-        }
-}, 
+        },
+        "borders": [
+            "SE"
+        ]
+    },
     {
         "name": "China",
         "capital": "Beijing",
-        "language": ["Mandarin Chinese"],
-        "isd": ["+86"],
+        "language": [
+            "Mandarin Chinese"
+        ],
+        "isd": [
+            "+86"
+        ],
         "currency": "Chinese Yuan Renminbi",
         "currency_code": "CNY",
         "country_code": "CN",
         "capital_geo": {
             "lat": 39.906217,
             "lng": 116.3912757
-        }
-}, 
+        },
+        "borders": [
+            "SE"
+        ]
+    },
     {
         "name": "Christmas Island",
         "capital": "Flying Fish Cove",
-        "language": ["English", "Mandarin Chinese", "Malay"],
-        "isd": ["+6189164"],
+        "language": [
+            "English",
+            "Mandarin Chinese",
+            "Malay"
+        ],
+        "isd": [
+            "+6189164"
+        ],
         "currency": "Australian Dollar",
         "currency_code": "AUD",
         "country_code": "CX",
         "capital_geo": {
             "lat": -10.4213344,
             "lng": 105.674413
-        }
-}, 
+        },
+        "borders": [
+            "SE"
+        ]
+    },
     {
         "name": "Cocos (Keeling) Islands",
         "capital": "West Island",
-        "language": ["English", "Cocos Malay"],
-        "isd": ["+6189162"],
+        "language": [
+            "English",
+            "Cocos Malay"
+        ],
+        "isd": [
+            "+6189162"
+        ],
         "currency": "Australian Dollar",
         "currency_code": "AUD",
         "country_code": "CC",
         "capital_geo": {
             "lat": -12.145866,
             "lng": 96.8422754
-        }
-}, 
+        },
+        "borders": [
+            "SE"
+        ]
+    },
     {
         "name": "Colombia",
         "capital": "Bogota",
-        "language": ["Spanish"],
-        "isd": ["+57"],
+        "language": [
+            "Spanish"
+        ],
+        "isd": [
+            "+57"
+        ],
         "currency": "Colombian Peso",
         "currency_code": "COP",
         "country_code": "CO",
         "capital_geo": {
             "lat": 4.6534649,
             "lng": -74.0836453
-        }
-}, 
+        },
+        "borders": [
+            "SE"
+        ]
+    },
     {
         "name": "Comoros",
         "capital": "Moroni",
-        "language": ["Arabic", "Comorian", "French"],
-        "isd": ["+269"],
+        "language": [
+            "Arabic",
+            "Comorian",
+            "French"
+        ],
+        "isd": [
+            "+269"
+        ],
         "currency": "Comorian Franc",
         "currency_code": "KMF",
         "country_code": "KM",
         "capital_geo": {
             "lat": -11.6931255,
             "lng": 43.2543044
-        }
-}, 
+        },
+        "borders": [
+            "SE"
+        ]
+    },
     {
         "name": "Republic of the Congo",
         "capital": "Brazzaville",
-        "language": ["French"],
-        "isd": ["+242"],
+        "language": [
+            "French"
+        ],
+        "isd": [
+            "+242"
+        ],
         "currency": "Central African CFA Franc",
         "currency_code": "XAF",
         "country_code": "CG",
         "capital_geo": {
             "lat": -4.2694407,
             "lng": 15.2712256
-        }
-},
+        },
+        "borders": [
+            "SE"
+        ]
+    },
     {
         "name": "Cook Islands",
         "capital": "Avarua",
-        "language": ["English", "Cook Islands Maori"],
-        "isd": ["+682"],
+        "language": [
+            "English",
+            "Cook Islands Maori"
+        ],
+        "isd": [
+            "+682"
+        ],
         "currency": "Cook Islands Dollar",
         "currency_code": null,
         "country_code": "CK",
         "capital_geo": {
             "lat": -21.2074736,
             "lng": -159.7708145
-        }
-}, 
+        },
+        "borders": [
+            "SE"
+        ]
+    },
     {
         "name": "Costa Rica",
         "capital": "San Jose",
-        "language": ["Spanish"],
-        "isd": ["+682"],
+        "language": [
+            "Spanish"
+        ],
+        "isd": [
+            "+682"
+        ],
         "currency": "Costa Rican Colon",
         "currency_code": "CRC",
         "country_code": "CR",
         "capital_geo": {
             "lat": 9.9325,
             "lng": -84.08
-        }
-}, 
+        },
+        "borders": [
+            "SE"
+        ]
+    },
     {
         "name": "Croatia",
         "capital": "Zagreb",
-        "language": ["Croatian"],
-        "isd": ["+385"],
+        "language": [
+            "Croatian"
+        ],
+        "isd": [
+            "+385"
+        ],
         "currency": "Corotian Kuna",
         "currency_code": "HRK",
         "country_code": "HR",
         "capital_geo": {
             "lat": 45.8131847,
             "lng": 15.9771774
-        }
-}, 
+        },
+        "borders": [
+            "SE"
+        ]
+    },
     {
         "name": "Cuba",
         "capital": "La Habana",
-        "language": ["Spanish"],
-        "isd": ["+53"],
+        "language": [
+            "Spanish"
+        ],
+        "isd": [
+            "+53"
+        ],
         "currency": "Cuban Peso",
         "currency_code": "CUP",
         "country_code": "CU",
         "capital_geo": {
             "lat": 23.135305,
             "lng": -82.3589631
-        }
-}, 
+        },
+        "borders": [
+            "SE"
+        ]
+    },
     {
         "name": "Cyprus",
         "capital": "Nicosia",
-        "language": ["Greek", "Turkish"],
-        "isd": ["+357"],
+        "language": [
+            "Greek",
+            "Turkish"
+        ],
+        "isd": [
+            "+357"
+        ],
         "currency": "European Euro",
         "currency_code": "EUR",
         "country_code": "CY",
         "capital_geo": {
             "lat": 35.1748976,
             "lng": 33.3638568
-        }
-}, 
+        },
+        "borders": [
+            "SE"
+        ]
+    },
     {
         "name": "Czech Republic",
         "capital": "Praha",
-        "language": ["Czech", "Slovak"],
-        "isd": ["+420"],
+        "language": [
+            "Czech",
+            "Slovak"
+        ],
+        "isd": [
+            "+420"
+        ],
         "currency": "Czech Koruna",
         "currency_code": "CZK",
         "country_code": "CZ",
         "capital_geo": {
             "lat": 50.0874654,
             "lng": 14.4212535
-        }
-}, 
+        },
+        "borders": [
+            "SE"
+        ]
+    },
     {
         "name": "Denmark",
         "capital": "Copenhagen",
-        "language": ["Danish"],
-        "isd": ["+45"],
+        "language": [
+            "Danish"
+        ],
+        "isd": [
+            "+45"
+        ],
         "currency": "Danish Krone",
         "currency_code": "DKK",
         "country_code": "DK",
         "capital_geo": {
             "lat": 55.6867243,
             "lng": 12.5700724
-        }
-}, 
+        },
+        "borders": [
+            "SE"
+        ]
+    },
     {
         "name": "Djibouti",
         "capital": "Djibouti",
-        "language": ["Arabic", "French"],
-        "isd": ["+253"],
+        "language": [
+            "Arabic",
+            "French"
+        ],
+        "isd": [
+            "+253"
+        ],
         "currency": "Djiboutian Franc",
         "currency_code": "DJF",
         "country_code": "DJ",
         "capital_geo": {
             "lat": 11.8145966,
             "lng": 42.8453061
-        }
-}, 
+        },
+        "borders": [
+            "SE"
+        ]
+    },
     {
         "name": "Dominica",
         "capital": "Roseau",
-        "language": ["English"],
-        "isd": ["+1767"],
+        "language": [
+            "English"
+        ],
+        "isd": [
+            "+1767"
+        ],
         "currency": "East Caribbean Dollar",
         "currency_code": "XCD",
         "country_code": "DM",
         "capital_geo": {
             "lat": 15.4240429,
             "lng": -61.3418533
-        }
-}, 
+        },
+        "borders": [
+            "SE"
+        ]
+    },
     {
         "name": "Dominican Republic",
         "capital": "Santo Domingo de Guzm",
-        "language": ["Spanish"],
-        "isd": ["+1809", "+1829", "+1849"],
+        "language": [
+            "Spanish"
+        ],
+        "isd": [
+            "+1809",
+            "+1829",
+            "+1849"
+        ],
         "currency": "Dominican Peso",
         "currency_code": "DOP",
         "country_code": "DO",
         "capital_geo": {
             "lat": 18.4801972,
             "lng": -69.942111
-        }
-}, 
+        },
+        "borders": [
+            "SE"
+        ]
+    },
     {
         "name": "Ecuador",
         "capital": "Quito",
-        "language": ["Spanish", "Quechua"],
-        "isd": ["+593"],
+        "language": [
+            "Spanish",
+            "Quechua"
+        ],
+        "isd": [
+            "+593"
+        ],
         "currency": "United States Dollar",
         "currency_code": "USD",
         "country_code": "EC",
         "capital_geo": {
             "lat": -0.2201641,
             "lng": -78.5123274
-        }
-}, 
+        },
+        "borders": [
+            "SE"
+        ]
+    },
     {
         "name": "Egypt",
         "capital": "Cairo",
-        "language": ["Arabic"],
-        "isd": ["+20"],
+        "language": [
+            "Arabic"
+        ],
+        "isd": [
+            "+20"
+        ],
         "currency": "Egyptian Pound",
         "currency_code": "EGP",
         "country_code": "EG",
         "capital_geo": {
             "lat": 30.0443879,
             "lng": 31.2357257
-        }
-}, 
+        },
+        "borders": [
+            "SE"
+        ]
+    },
     {
         "name": "El Salvador",
         "capital": "San Salvador",
-        "language": ["Spanish"],
-        "isd": ["+593"],
+        "language": [
+            "Spanish"
+        ],
+        "isd": [
+            "+593"
+        ],
         "currency": "United States Dollar",
         "currency_code": "USD",
         "country_code": "SV",
         "capital_geo": {
             "lat": 13.6989939,
             "lng": -89.1914249
-        }
-}, 
+        },
+        "borders": [
+            "SE"
+        ]
+    },
     {
         "name": "Equatorial Guinea",
         "capital": "Malabo",
-        "language": ["French", "Portuguese", "Spanish"],
-        "isd": ["+240"],
+        "language": [
+            "French",
+            "Portuguese",
+            "Spanish"
+        ],
+        "isd": [
+            "+240"
+        ],
         "currency": "Central African CFA Franc",
         "currency_code": "XAF",
         "country_code": "GQ",
         "capital_geo": {
             "lat": 3.752828,
             "lng": 8.780061
-        }
-}, 
+        },
+        "borders": [
+            "SE"
+        ]
+    },
     {
         "name": "Eritrea",
         "capital": "Asmara",
-        "language": ["Tigrinya"],
-        "isd": ["+291"],
+        "language": [
+            "Tigrinya"
+        ],
+        "isd": [
+            "+291"
+        ],
         "currency": "Eritean Nakfa",
         "currency_code": "ERN",
         "country_code": "ER",
         "capital_geo": {
             "lat": 15.3389667,
             "lng": 38.9326763
-        }
-}, 
+        },
+        "borders": [
+            "SE"
+        ]
+    },
     {
         "name": "Estonia",
         "capital": "Tallinn",
-        "language": ["Estonian"],
-        "isd": ["+372"],
+        "language": [
+            "Estonian"
+        ],
+        "isd": [
+            "+372"
+        ],
         "currency": "European Euro",
         "currency_code": "EUR",
         "country_code": "EE",
         "capital_geo": {
             "lat": 59.4372155,
             "lng": 24.7453688
-        }
-}, 
+        },
+        "borders": [
+            "SE"
+        ]
+    },
     {
         "name": "Ethiopia",
         "capital": "Addis Abeba",
-        "language": ["Afar", "Amharic", "Oromo", "Somali", "Tigrinya", "English"],
-        "isd": ["+251"],
+        "language": [
+            "Afar",
+            "Amharic",
+            "Oromo",
+            "Somali",
+            "Tigrinya",
+            "English"
+        ],
+        "isd": [
+            "+251"
+        ],
         "currency": "Ethiopian Birr",
         "currency_code": "ETB",
         "country_code": "ET",
         "capital_geo": {
             "lat": 9.0107934,
             "lng": 38.7612525
-        }
-}, 
+        },
+        "borders": [
+            "SE"
+        ]
+    },
     {
         "name": "Falkland Islands (Malvinas)",
         "capital": "Stanley",
-        "language": ["English"],
-        "isd": ["+500"],
+        "language": [
+            "English"
+        ],
+        "isd": [
+            "+500"
+        ],
         "currency": "Falkland Islands Pound",
         "currency_code": "FKP",
         "country_code": "FK",
         "capital_geo": {
             "lat": -51.6950575,
             "lng": -57.8491693
-        }
-}, 
+        },
+        "borders": [
+            "SE"
+        ]
+    },
     {
         "name": "Faroe Islands",
         "capital": "Torshavn",
-        "language": ["Faroese", "Danish"],
-        "isd": ["+298"],
+        "language": [
+            "Faroese",
+            "Danish"
+        ],
+        "isd": [
+            "+298"
+        ],
         "currency": "Faroese Krona",
         "currency_code": null,
         "country_code": "FO",
         "capital_geo": {
             "lat": 62.012,
             "lng": -6.768
-        }
-}, 
+        },
+        "borders": [
+            "SE"
+        ]
+    },
     {
         "name": "Fiji",
         "capital": "Suva",
-        "language": ["English", "Fijian", "Fiji Hindi"],
-        "isd": ["+679"],
+        "language": [
+            "English",
+            "Fijian",
+            "Fiji Hindi"
+        ],
+        "isd": [
+            "+679"
+        ],
         "currency": "Fijian Dollar",
         "currency_code": "FJD",
         "country_code": "FJ",
         "capital_geo": {
             "lat": -18.1415884,
-            "lng": 178.4421662  
-        }
-}, 
+            "lng": 178.4421662
+        },
+        "borders": [
+            "SE"
+        ]
+    },
     {
         "name": "Finland",
         "capital": "Helsinki",
-        "language": ["Finnish", "Swedish"],
-        "isd": ["+358"],
+        "language": [
+            "Finnish",
+            "Swedish"
+        ],
+        "isd": [
+            "+358"
+        ],
         "currency": "European Euro",
         "currency_code": "EUR",
         "country_code": "FI",
         "capital_geo": {
             "lat": 60.1674881,
             "lng": 24.9427473
-        }
-}, 
+        },
+        "borders": [
+            "SE"
+        ]
+    },
     {
         "name": "France",
         "capital": "Paris",
-        "language": ["French"],
-        "isd": ["+33"],
+        "language": [
+            "French"
+        ],
+        "isd": [
+            "+33"
+        ],
         "currency": "European Euro",
         "currency_code": "EUR",
         "country_code": "FR",
         "capital_geo": {
             "lat": 48.8534951,
             "lng": 2.3483915
-        }
-}, 
+        },
+        "borders": [
+            "SE"
+        ]
+    },
     {
         "name": "French Guiana",
         "capital": "Cayenne",
-        "language": [""],
-        "isd": ["+594"],
+        "language": [
+            ""
+        ],
+        "isd": [
+            "+594"
+        ],
         "currency": "European Euro",
         "currency_code": "EUR",
         "country_code": "GF",
         "capital_geo": {
             "lat": 4.9371143,
             "lng": -52.3258307
-        }
-}, 
+        },
+        "borders": [
+            "SE"
+        ]
+    },
     {
         "name": "French Polynesia",
         "capital": "Papeete",
-        "language": [""],
-        "isd": ["+689"],
+        "language": [
+            ""
+        ],
+        "isd": [
+            "+689"
+        ],
         "currency": "CFP Franc",
         "currency_code": "XPF",
         "country_code": "PF",
         "capital_geo": {
             "lat": -17.5373835,
             "lng": -149.5659964
-        }
-}, 
+        },
+        "borders": [
+            "SE"
+        ]
+    },
     {
         "name": "French Southern Territories",
         "capital": null,
-        "language": [""],
-        "isd": ["+262"],
+        "language": [
+            ""
+        ],
+        "isd": [
+            "+262"
+        ],
         "currency": "European Euro",
         "currency_code": "EUR",
         "country_code": "TF",
         "capital_geo": {
             "lat": null,
             "lng": null
-        }
-}, 
+        },
+        "borders": [
+            "SE"
+        ]
+    },
     {
         "name": "Gabon",
         "capital": "Libreville",
-        "language": ["French"],
-        "isd": ["+241"],
+        "language": [
+            "French"
+        ],
+        "isd": [
+            "+241"
+        ],
         "currency": "Central African CFA Franc",
         "currency_code": "XAF",
         "country_code": "GA",
         "capital_geo": {
             "lat": 0.390002,
             "lng": 9.454001
-        }
-}, 
+        },
+        "borders": [
+            "SE"
+        ]
+    },
     {
         "name": "Gambia",
         "capital": "Banjul",
-        "language": ["English"],
-        "isd": ["+220"],
+        "language": [
+            "English"
+        ],
+        "isd": [
+            "+220"
+        ],
         "currency": "Gambian Dalasi",
         "currency_code": "GMD",
         "country_code": "GM",
         "capital_geo": {
             "lat": 13.4410165,
             "lng": -16.5627509
-        }
-}, 
+        },
+        "borders": [
+            "SE"
+        ]
+    },
     {
         "name": "Georgia",
         "capital": "Tbilisi",
-        "language": ["Georgian"],
-        "isd": ["+995"],
+        "language": [
+            "Georgian"
+        ],
+        "isd": [
+            "+995"
+        ],
         "currency": "Georgian Lari",
         "currency_code": "GEL",
         "country_code": "GE",
         "capital_geo": {
             "lat": 41.6934591,
             "lng": 44.8014495
-        }
-}, 
+        },
+        "borders": [
+            "SE"
+        ]
+    },
     {
         "name": "Germany",
         "capital": "Berlin",
-        "language": ["German"],
-        "isd": ["+49"],
+        "language": [
+            "German"
+        ],
+        "isd": [
+            "+49"
+        ],
         "currency": "European Euro",
         "currency_code": "EUR",
         "country_code": "DE",
         "capital_geo": {
             "lat": 52.5170365,
             "lng": 13.3888599
-        }
-}, 
+        },
+        "borders": [
+            "SE"
+        ]
+    },
     {
         "name": "Ghana",
         "capital": "Accra",
-        "language": ["English"],
-        "isd": ["+233"],
+        "language": [
+            "English"
+        ],
+        "isd": [
+            "+233"
+        ],
         "currency": "Ghanaian Cedi",
         "currency_code": "GHS",
         "country_code": "GH",
         "capital_geo": {
             "lat": 5.5571096,
             "lng": -0.2012376
-        }
-}, 
+        },
+        "borders": [
+            "SE"
+        ]
+    },
     {
         "name": "Gibraltar",
         "capital": "Gibraltar",
-        "language": [""],
-        "isd": ["+350"],
+        "language": [
+            ""
+        ],
+        "isd": [
+            "+350"
+        ],
         "currency": "Gibraltar Pound",
         "currency_code": "GIP",
         "country_code": "GI",
         "capital_geo": {
             "lat": 36.1285933,
             "lng": -5.3474761
-        }
-}, 
+        },
+        "borders": [
+            "SE"
+        ]
+    },
     {
         "name": "Greece",
         "capital": "Athenai",
-        "language": ["Greek"],
-        "isd": ["+30"],
+        "language": [
+            "Greek"
+        ],
+        "isd": [
+            "+30"
+        ],
         "currency": "European Euro",
         "currency_code": "EUR",
         "country_code": "GR",
         "capital_geo": {
             "lat": 37.9839412,
             "lng": 23.7283052
-        }
-}, 
+        },
+        "borders": [
+            "SE"
+        ]
+    },
     {
         "name": "Greenland",
         "capital": "Nuuk",
-        "language": [""],
-        "isd": ["+299"],
+        "language": [
+            ""
+        ],
+        "isd": [
+            "+299"
+        ],
         "currency": "Danish Krone",
         "currency_code": "DKK",
         "country_code": "GL",
         "capital_geo": {
             "lat": 64.175029,
             "lng": -51.7355386
-        }
-}, 
+        },
+        "borders": [
+            "SE"
+        ]
+    },
     {
         "name": "Grenada",
         "capital": "Saint George's",
-        "language": ["English"],
-        "isd": ["+1473"],
+        "language": [
+            "English"
+        ],
+        "isd": [
+            "+1473"
+        ],
         "currency": "East Caribbean Dollar",
         "currency_code": "XCD",
         "country_code": "GD",
         "capital_geo": {
             "lat": 12.0535331,
             "lng": -61.751805
-        }
-}, 
+        },
+        "borders": [
+            "SE"
+        ]
+    },
     {
         "name": "Guadeloupe",
         "capital": "Basse-Terre",
-        "language": [""],
-        "isd": ["+590"],
+        "language": [
+            ""
+        ],
+        "isd": [
+            "+590"
+        ],
         "currency": "European Euro",
         "currency_code": "EUR",
         "country_code": "GP",
         "capital_geo": {
             "lat": 16.0000778,
             "lng": -61.7333373
-        }
-}, 
+        },
+        "borders": [
+            "SE"
+        ]
+    },
     {
         "name": "Guam",
         "capital": "Hagatna",
-        "language": [""],
-        "isd": ["+1671"],
+        "language": [
+            ""
+        ],
+        "isd": [
+            "+1671"
+        ],
         "currency": "United States Dollar",
         "currency_code": "USD",
         "country_code": "GU",
         "capital_geo": {
             "lat": 13.47567,
             "lng": 144.74886
-        }
-}, 
+        },
+        "borders": [
+            "SE"
+        ]
+    },
     {
         "name": "Guatemala",
         "capital": "Ciudad de Guatemala",
-        "language": ["Spanish"],
-        "isd": ["+502"],
+        "language": [
+            "Spanish"
+        ],
+        "isd": [
+            "+502"
+        ],
         "currency": "Guatemalan Quetzal",
         "currency_code": "GTQ",
         "country_code": "GT",
         "capital_geo": {
             "lat": 14.6222328,
             "lng": -90.5185188
-        }
-}, 
+        },
+        "borders": [
+            "SE"
+        ]
+    },
     {
         "name": "Guernsey",
         "capital": "Saint Peter Port",
-        "language": [""],
-        "isd": ["+441481", "+447781", "+447839", "+447911"],
+        "language": [
+            ""
+        ],
+        "isd": [
+            "+441481",
+            "+447781",
+            "+447839",
+            "+447911"
+        ],
         "currency": "Guernsey Pound",
         "currency_code": "GGP",
         "country_code": "GG",
         "capital_geo": {
             "lat": 49.4568142,
             "lng": -2.5389979
-        }
-}, 
+        },
+        "borders": [
+            "SE"
+        ]
+    },
     {
         "name": "Guinea",
         "capital": "Conakry",
-        "language": ["French"],
-        "isd": ["+224"],
+        "language": [
+            "French"
+        ],
+        "isd": [
+            "+224"
+        ],
         "currency": "Guinean Franc",
         "currency_code": "GNF",
         "country_code": "GN",
         "capital_geo": {
             "lat": 9.5170602,
             "lng": -13.6998434
-        }
-}, 
+        },
+        "borders": [
+            "SE"
+        ]
+    },
     {
         "name": "Guinea-Bissau",
         "capital": "Bissau",
-        "language": ["Portuguese"],
-        "isd": ["+245"],
+        "language": [
+            "Portuguese"
+        ],
+        "isd": [
+            "+245"
+        ],
         "currency": "West African CFA Franc",
         "currency_code": "XOF",
         "country_code": "GW",
         "capital_geo": {
             "lat": 11.861324,
             "lng": -15.583055
-        }
-}, 
+        },
+        "borders": [
+            "SE"
+        ]
+    },
     {
         "name": "Guyana",
         "capital": "Georgetown",
-        "language": ["English"],
-        "isd": ["+592"],
+        "language": [
+            "English"
+        ],
+        "isd": [
+            "+592"
+        ],
         "currency": "Guyanese Dollar",
         "currency_code": "GYD",
         "country_code": "GY",
         "capital_geo": {
             "lat": 6.8137426,
             "lng": -58.1624465
-        }
-}, 
+        },
+        "borders": [
+            "SE"
+        ]
+    },
     {
         "name": "Haiti",
         "capital": "Port-au-Prince",
-        "language": ["French", "Haitian Creole"],
-        "isd": ["+509"],
+        "language": [
+            "French",
+            "Haitian Creole"
+        ],
+        "isd": [
+            "+509"
+        ],
         "currency": "Haitian Gourde",
         "currency_code": "HTG",
         "country_code": "HT",
         "capital_geo": {
             "lat": 18.547327,
             "lng": -72.3395928
-        }
-}, 
+        },
+        "borders": [
+            "SE"
+        ]
+    },
     {
         "name": "Heard Island and Mcdonald Islands",
         "capital": null,
-        "language": [""],
-        "isd": ["+1672"],
+        "language": [
+            ""
+        ],
+        "isd": [
+            "+1672"
+        ],
         "currency": "Australian Dollar",
         "currency_code": "AUD",
         "country_code": "HM",
         "capital_geo": {
             "lat": null,
             "lng": null
-        }
-},
+        },
+        "borders": [
+            "SE"
+        ]
+    },
     {
         "name": "Honduras",
         "capital": "Tegucigalpa",
-        "language": [""],
-        "isd": ["+504"],
+        "language": [
+            ""
+        ],
+        "isd": [
+            "+504"
+        ],
         "currency": "Honduran Lempira",
         "currency_code": "HNL",
         "country_code": "HN",
         "capital_geo": {
             "lat": 0,
             "lng": 0
-        }
-}, 
+        },
+        "borders": [
+            "SE"
+        ]
+    },
     {
         "name": "Hong Kong",
         "capital": "Victoria",
-        "language": [""],
-        "isd": ["+852"],
+        "language": [
+            ""
+        ],
+        "isd": [
+            "+852"
+        ],
         "currency": "Hong Kong Dollar",
         "currency_code": "HKD",
         "country_code": "HK",
         "capital_geo": {
             "lat": 22.2815975,
             "lng": 114.1206707
-        }
-}, 
+        },
+        "borders": [
+            "SE"
+        ]
+    },
     {
         "name": "Hungary",
         "capital": "Budapest",
-        "language": [""],
-        "isd": ["+36"],
+        "language": [
+            ""
+        ],
+        "isd": [
+            "+36"
+        ],
         "currency": "Hungarian Forint",
         "currency_code": "HUF",
         "country_code": "HU",
         "capital_geo": {
             "lat": 47.4979937,
             "lng": 19.0403594
-        }
-}, 
+        },
+        "borders": [
+            "SE"
+        ]
+    },
     {
         "name": "Iceland",
         "capital": "Reykjavik",
-        "language": ["Icelandic"],
-        "isd": ["+354"],
+        "language": [
+            "Icelandic"
+        ],
+        "isd": [
+            "+354"
+        ],
         "currency": "Icelandic Krona",
         "currency_code": "ISK",
         "country_code": "IS",
         "capital_geo": {
             "lat": 64.145981,
             "lng": -21.9422367
-        }
-}, 
+        },
+        "borders": [
+            "SE"
+        ]
+    },
     {
         "name": "India",
         "capital": "New Delhi",
-        "language": ["Hindi", "English"],
-        "isd": ["+91"],
+        "language": [
+            "Hindi",
+            "English"
+        ],
+        "isd": [
+            "+91"
+        ],
         "currency": "Indian Rupee",
         "currency_code": "INR",
         "country_code": "IN",
         "capital_geo": {
             "lat": 28.6138954,
             "lng": 77.2090057
-        }
-}, 
+        },
+        "borders": [
+            "SE"
+        ]
+    },
     {
         "name": "Indonesia",
         "capital": "Jakarta",
-        "language": ["Indonesian", "Javanese"],
-        "isd": ["+62"],
+        "language": [
+            "Indonesian",
+            "Javanese"
+        ],
+        "isd": [
+            "+62"
+        ],
         "currency": "Indonesian Rupiah",
         "currency_code": "IDR",
         "country_code": "ID",
         "capital_geo": {
             "lat": -6.1753942,
             "lng": 106.827183
-        }
-}, 
+        },
+        "borders": [
+            "SE"
+        ]
+    },
     {
         "name": "Iran, Islamic Republic Of",
         "capital": "Tehran",
-        "language": ["Persian"],
-        "isd": ["+98"],
+        "language": [
+            "Persian"
+        ],
+        "isd": [
+            "+98"
+        ],
         "currency": "Iranian Rial",
         "currency_code": "IRR",
         "country_code": "IR",
         "capital_geo": {
             "lat": 35.6892523,
             "lng": 51.3896004
-        }
-}, 
+        },
+        "borders": [
+            "SE"
+        ]
+    },
     {
         "name": "Iraq",
         "capital": "Baghdad",
-        "language": ["Arabic"],
-        "isd": ["+964"],
+        "language": [
+            "Arabic"
+        ],
+        "isd": [
+            "+964"
+        ],
         "currency": "Iraqi Dinar",
         "currency_code": "IQD",
         "country_code": "IQ",
         "capital_geo": {
             "lat": 33.3061701,
             "lng": 44.3872213
-        }
-}, 
+        },
+        "borders": [
+            "SE"
+        ]
+    },
     {
         "name": "Ireland",
         "capital": "Dublin",
-        "language": ["English", "Irish"],
-        "isd": ["+353"],
+        "language": [
+            "English",
+            "Irish"
+        ],
+        "isd": [
+            "+353"
+        ],
         "currency": "European Euro",
         "currency_code": "EUR",
         "country_code": "IE",
         "capital_geo": {
             "lat": 53.3497645,
             "lng": -6.2602732
-        }
-}, 
+        },
+        "borders": [
+            "SE"
+        ]
+    },
     {
         "name": "Isle of Man",
         "capital": "Douglas",
-        "language": [""],
-        "isd": ["+441624", "+447524", "+447624", "+447924"],
+        "language": [
+            ""
+        ],
+        "isd": [
+            "+441624",
+            "+447524",
+            "+447624",
+            "+447924"
+        ],
         "currency": "Manx Pound",
         "currency_code": "IMP",
         "country_code": "IM",
         "capital_geo": {
             "lat": 54.149774,
             "lng": -4.4779021
-        }
-}, 
+        },
+        "borders": [
+            "SE"
+        ]
+    },
     {
         "name": "Israel",
         "capital": "Jerusalem",
-        "language": ["Hebrew"],
-        "isd": ["+972"],
+        "language": [
+            "Hebrew"
+        ],
+        "isd": [
+            "+972"
+        ],
         "currency": "Israeli New Shekel",
         "currency_code": "ILS",
         "country_code": "IL",
         "capital_geo": {
             "lat": 31.7788242,
             "lng": 35.2257626
-        }
-}, 
+        },
+        "borders": [
+            "SE"
+        ]
+    },
     {
         "name": "Italy",
         "capital": "Rome",
-        "language": ["Italian"],
-        "isd": ["+39"],
+        "language": [
+            "Italian"
+        ],
+        "isd": [
+            "+39"
+        ],
         "currency": "European Euro",
         "currency_code": "EUR",
         "country_code": "IT",
         "capital_geo": {
             "lat": 41.8933203,
             "lng": 12.4829321
-        }
-},
+        },
+        "borders": [
+            "SE"
+        ]
+    },
     {
         "name": "Ivory Coast",
         "capital": "Yamoussoukro",
-        "language": ["French"],
-        "isd": ["+225"],
+        "language": [
+            "French"
+        ],
+        "isd": [
+            "+225"
+        ],
         "currency": "West African CFA Franc",
         "currency_code": "XOF",
         "country_code": "CI",
         "capital_geo": {
             "lat": 6.809107,
             "lng": -5.273263
-        }
-}, 
+        },
+        "borders": [
+            "SE"
+        ]
+    },
     {
         "name": "Jamaica",
         "capital": "Kingston",
-        "language": ["English"],
-        "isd": ["+1876"],
+        "language": [
+            "English"
+        ],
+        "isd": [
+            "+1876"
+        ],
         "currency": "Jamaican Dollar",
         "currency_code": "JMD",
         "country_code": "JM",
         "capital_geo": {
             "lat": 17.9712148,
             "lng": -76.7928128
-        }
-}, 
+        },
+        "borders": [
+            "SE"
+        ]
+    },
     {
         "name": "Japan",
         "capital": "Tokyo",
-        "language": ["Japanese"],
-        "isd": ["+81"],
+        "language": [
+            "Japanese"
+        ],
+        "isd": [
+            "+81"
+        ],
         "currency": "Japanese Yen",
         "currency_code": "JPY",
         "country_code": "JP",
         "capital_geo": {
             "lat": 35.6828387,
             "lng": 139.7594549
-        }
-}, 
+        },
+        "borders": [
+            "SE"
+        ]
+    },
     {
         "name": "Jersey",
         "capital": "Saint Helier",
-        "language": [""],
-        "isd": ["+441534"],
+        "language": [
+            ""
+        ],
+        "isd": [
+            "+441534"
+        ],
         "currency": "Jersey Pound",
         "currency_code": "JEP",
         "country_code": "JE",
         "capital_geo": {
             "lat": 49.1856637,
             "lng": -2.1102277
-        }
-}, 
+        },
+        "borders": [
+            "SE"
+        ]
+    },
     {
         "name": "Jordan",
         "capital": "Amman",
-        "language": ["Arabic"],
-        "isd": ["+962"],
+        "language": [
+            "Arabic"
+        ],
+        "isd": [
+            "+962"
+        ],
         "currency": "Jordanian Dinar",
         "currency_code": "JOD",
         "country_code": "JO",
         "capital_geo": {
             "lat": 31.9515694,
             "lng": 35.9239625
-        }
-}, 
+        },
+        "borders": [
+            "SE"
+        ]
+    },
     {
         "name": "Kazakhstan",
         "capital": "Nur-Sultan",
-        "language": ["Kazakh", "Russian"],
-        "isd": ["+76", "+77"],
+        "language": [
+            "Kazakh",
+            "Russian"
+        ],
+        "isd": [
+            "+76",
+            "+77"
+        ],
         "currency": "Kazakhstani Tenge",
         "currency_code": "KZT",
         "country_code": "KZ",
         "capital_geo": {
             "lat": 51.1282205,
             "lng": 71.4306682
-        }
-}, 
+        },
+        "borders": [
+            "SE"
+        ]
+    },
     {
         "name": "Kenya",
         "capital": "Nairobi",
-        "language": ["English"],
-        "isd": ["+254"],
+        "language": [
+            "English"
+        ],
+        "isd": [
+            "+254"
+        ],
         "currency": "Kenyan Shilling",
         "currency_code": "KES",
         "country_code": "KE",
         "capital_geo": {
             "lat": -1.2832533,
             "lng": 36.8172449
-        }
-}, 
+        },
+        "borders": [
+            "SE"
+        ]
+    },
     {
         "name": "Kiribati",
         "capital": "Bairiki",
-        "language": ["English"],
-        "isd": ["+686"],
+        "language": [
+            "English"
+        ],
+        "isd": [
+            "+686"
+        ],
         "currency": "Australian Dollar",
         "currency_code": "AUD",
         "country_code": "KI",
         "capital_geo": {
             "lat": 1.3296193,
             "lng": 172.9777542
-        }
-}, 
+        },
+        "borders": [
+            "SE"
+        ]
+    },
     {
         "name": "North Korea",
         "capital": "Pyongyang",
-        "language": ["Korean"],
-        "isd": ["+850"],
+        "language": [
+            "Korean"
+        ],
+        "isd": [
+            "+850"
+        ],
         "currency": "North Korean Won",
         "currency_code": "KPW",
         "country_code": "KP",
         "capital_geo": {
             "lat": 39.0167979,
             "lng": 125.7473609
-        }
-}, 
+        },
+        "borders": [
+            "SE"
+        ]
+    },
     {
         "name": "South Korea",
         "capital": "Seoul",
-        "language": ["Korean"],
-        "isd": ["+82"],
+        "language": [
+            "Korean"
+        ],
+        "isd": [
+            "+82"
+        ],
         "currency": "South Korean Won",
         "currency_code": "KRW",
         "country_code": "KR",
         "capital_geo": {
             "lat": 37.5666791,
             "lng": 126.9782914
-        }
-}, 
+        },
+        "borders": [
+            "SE"
+        ]
+    },
     {
         "name": "Kuwait",
         "capital": "Kuwait",
-        "language": ["Standard Arabic"],
-        "isd": ["+965"],
+        "language": [
+            "Standard Arabic"
+        ],
+        "isd": [
+            "+965"
+        ],
         "currency": "Kuwaiti Dinar",
         "currency_code": "KWD",
         "country_code": "KW",
         "capital_geo": {
             "lat": 29.2733964,
             "lng": 47.4979476
-        }
-}, 
+        },
+        "borders": [
+            "SE"
+        ]
+    },
     {
         "name": "Kyrgyzstan",
         "capital": "Bishkek",
-        "language": ["Kyrgyz", "Russian"],
-        "isd": ["+996"],
+        "language": [
+            "Kyrgyz",
+            "Russian"
+        ],
+        "isd": [
+            "+996"
+        ],
         "currency": "Kyrgyzstani Som",
         "currency_code": "KGS",
         "country_code": "KG",
         "capital_geo": {
             "lat": 42.8765615,
             "lng": 74.6070079
-        }
-}, 
+        },
+        "borders": [
+            "SE"
+        ]
+    },
     {
         "name": "Laos",
         "capital": "Vientiane",
-        "language": ["Lao"],
-        "isd": ["+856"],
+        "language": [
+            "Lao"
+        ],
+        "isd": [
+            "+856"
+        ],
         "currency": "Lao Kip",
         "currency_code": "LAK",
         "country_code": "LA",
         "capital_geo": {
             "lat": 17.9640988,
             "lng": 102.6133707
-        }
-}, 
+        },
+        "borders": [
+            "SE"
+        ]
+    },
     {
         "name": "Latvia",
         "capital": "Riga",
-        "language": ["Latvian"],
-        "isd": ["+371"],
+        "language": [
+            "Latvian"
+        ],
+        "isd": [
+            "+371"
+        ],
         "currency": "European Euro",
         "currency_code": "EUR",
         "country_code": "LV",
         "capital_geo": {
             "lat": 56.9493977,
             "lng": 24.1051846
-        }
-}, 
+        },
+        "borders": [
+            "SE"
+        ]
+    },
     {
         "name": "Lebanon",
         "capital": "Beirut",
-        "language": ["Arabic"],
-        "isd": ["+961"],
+        "language": [
+            "Arabic"
+        ],
+        "isd": [
+            "+961"
+        ],
         "currency": "Lebanese Pound",
         "currency_code": "LBP",
         "country_code": "LB",
         "capital_geo": {
             "lat": 33.8959203,
             "lng": 35.47843
-        }
-}, 
+        },
+        "borders": [
+            "SE"
+        ]
+    },
     {
         "name": "Lesotho",
         "capital": "Maseru",
-        "language": ["Sotho", "English"],
-        "isd": ["+266"],
+        "language": [
+            "Sotho",
+            "English"
+        ],
+        "isd": [
+            "+266"
+        ],
         "currency": "Lesotho Loti",
         "currency_code": "LSL",
         "country_code": "LS",
         "capital_geo": {
             "lat": -29.310054,
             "lng": 27.478222
-        }
-}, 
+        },
+        "borders": [
+            "SE"
+        ]
+    },
     {
         "name": "Liberia",
         "capital": "Monrovia",
-        "language": ["English"],
-        "isd": ["+231"],
+        "language": [
+            "English"
+        ],
+        "isd": [
+            "+231"
+        ],
         "currency": "Liberian Dollar",
         "currency_code": "LRD",
         "country_code": "LR",
         "capital_geo": {
             "lat": 6.328034,
             "lng": -10.797788
-        }
-}, 
+        },
+        "borders": [
+            "SE"
+        ]
+    },
     {
         "name": "Libya",
         "capital": "Tripoli",
-        "language": ["Arabic"],
-        "isd": ["+218"],
+        "language": [
+            "Arabic"
+        ],
+        "isd": [
+            "+218"
+        ],
         "currency": "Libyan DInar",
         "currency_code": "LYD",
         "country_code": "LY",
         "capital_geo": {
             "lat": 32.896672,
             "lng": 13.1777923
-        }
-}, 
+        },
+        "borders": [
+            "SE"
+        ]
+    },
     {
         "name": "Liechtenstein",
         "capital": "Vaduz",
-        "language": ["German"],
-        "isd": ["+423"],
+        "language": [
+            "German"
+        ],
+        "isd": [
+            "+423"
+        ],
         "currency": "Swiss Franc",
         "currency_code": "CHF",
         "country_code": "LI",
         "capital_geo": {
             "lat": 47.1392862,
             "lng": 9.5227962
-        }
-}, 
+        },
+        "borders": [
+            "SE"
+        ]
+    },
     {
         "name": "Lithuania",
         "capital": "Vilnius",
-        "language": ["Lithuanian"],
-        "isd": ["+370"],
+        "language": [
+            "Lithuanian"
+        ],
+        "isd": [
+            "+370"
+        ],
         "currency": "European Euro",
         "currency_code": "EUR",
         "country_code": "LT",
         "capital_geo": {
             "lat": 54.6870458,
             "lng": 25.2829111
-        }
-}, 
+        },
+        "borders": [
+            "SE"
+        ]
+    },
     {
         "name": "Luxembourg",
         "capital": "Luxembourg",
-        "language": ["French", "German", "Luxembourgish"],
-        "isd": ["+352"],
+        "language": [
+            "French",
+            "German",
+            "Luxembourgish"
+        ],
+        "isd": [
+            "+352"
+        ],
         "currency": "European Euro",
         "currency_code": "EUR",
         "country_code": "LU",
         "capital_geo": {
             "lat": 49.8158683,
             "lng": 6.1296751
-        }
-}, 
+        },
+        "borders": [
+            "SE"
+        ]
+    },
     {
         "name": "Macau",
         "capital": "Macau",
-        "language": [""],
-        "isd": ["+853"],
+        "language": [
+            ""
+        ],
+        "isd": [
+            "+853"
+        ],
         "currency": "Macanese Pataca",
         "currency_code": "MOP",
         "country_code": "MO",
         "capital_geo": {
             "lat": 22.1899448,
             "lng": 113.5380454
-        }
-}, 
+        },
+        "borders": [
+            "SE"
+        ]
+    },
     {
         "name": "Macedonia",
         "capital": "Skopje",
-        "language": [""],
-        "isd": [""],
+        "language": [
+            ""
+        ],
+        "isd": [
+            ""
+        ],
         "currency": "",
         "currency_code": "",
         "country_code": "MK",
         "capital_geo": {
             "lat": 41.9960924,
             "lng": 21.4316495
-        }
-}, 
+        },
+        "borders": [
+            "SE"
+        ]
+    },
     {
         "name": "Madagascar",
         "capital": "Antananarivo",
-        "language": ["French", "Malagasy"],
-        "isd": ["+261"],
+        "language": [
+            "French",
+            "Malagasy"
+        ],
+        "isd": [
+            "+261"
+        ],
         "currency": "Malagasy Ariary",
         "currency_code": "MGA",
         "country_code": "MG",
         "capital_geo": {
             "lat": -18.9100122,
             "lng": 47.5255809
-        }
-}, 
+        },
+        "borders": [
+            "SE"
+        ]
+    },
     {
         "name": "Malawi",
         "capital": "Lilongwe",
-        "language": ["English", "Chichewa"],
-        "isd": ["+265"],
+        "language": [
+            "English",
+            "Chichewa"
+        ],
+        "isd": [
+            "+265"
+        ],
         "currency": "Malawian Kwacha",
         "currency_code": "MWK",
         "country_code": "MW",
         "capital_geo": {
             "lat": -13.9875107,
             "lng": 33.768144
-        }
-}, 
+        },
+        "borders": [
+            "SE"
+        ]
+    },
     {
         "name": "Malaysia",
         "capital": "Kuala Lumpur",
-        "language": ["Malay", "English"],
-        "isd": ["+60"],
+        "language": [
+            "Malay",
+            "English"
+        ],
+        "isd": [
+            "+60"
+        ],
         "currency": "Malaysian Ringgit",
         "currency_code": "MYR",
         "country_code": "MY",
         "capital_geo": {
             "lat": 3.1516964,
             "lng": 101.6942371
-        }
-}, 
+        },
+        "borders": [
+            "SE"
+        ]
+    },
     {
         "name": "Maldives",
         "capital": "Male",
-        "language": ["Dhivehi"],
-        "isd": ["+960"],
+        "language": [
+            "Dhivehi"
+        ],
+        "isd": [
+            "+960"
+        ],
         "currency": "Maldivian Rufiyaa",
         "currency_code": "MVR",
         "country_code": "MV",
         "capital_geo": {
             "lat": 4.1779879,
             "lng": 73.5107387
-        }
-}, 
+        },
+        "borders": [
+            "SE"
+        ]
+    },
     {
         "name": "Mali",
         "capital": "Bamako",
-        "language": ["French"],
-        "isd": ["+223"],
+        "language": [
+            "French"
+        ],
+        "isd": [
+            "+223"
+        ],
         "currency": "West African CFA Franc",
         "currency_code": "XOF",
         "country_code": "ML",
         "capital_geo": {
             "lat": 12.6132655,
             "lng": -7.9847391
-        }
-}, 
+        },
+        "borders": [
+            "SE"
+        ]
+    },
     {
         "name": "Malta",
         "capital": "Valletta",
-        "language": ["Maltese", "English"],
-        "isd": ["+356"],
+        "language": [
+            "Maltese",
+            "English"
+        ],
+        "isd": [
+            "+356"
+        ],
         "currency": "European Euro",
         "currency_code": "EUR",
         "country_code": "MT",
         "capital_geo": {
             "lat": 35.8989818,
             "lng": 14.5136759
-        }
-}, 
+        },
+        "borders": [
+            "SE"
+        ]
+    },
     {
         "name": "Marshall Islands",
         "capital": "Majuro",
-        "language": ["English"],
-        "isd": ["+692"],
+        "language": [
+            "English"
+        ],
+        "isd": [
+            "+692"
+        ],
         "currency": "United States Dollar",
         "currency_code": "USD",
         "country_code": "MH",
         "capital_geo": {
             "lat": 7.0909924,
             "lng": 171.3816354
-        }
-}, 
+        },
+        "borders": [
+            "SE"
+        ]
+    },
     {
         "name": "Martinique",
         "capital": "Fort-de-France",
-        "language": [""],
-        "isd": ["+596"],
+        "language": [
+            ""
+        ],
+        "isd": [
+            "+596"
+        ],
         "currency": "European Euro",
         "currency_code": "EUR",
         "country_code": "MQ",
         "capital_geo": {
             "lat": 14.6027962,
             "lng": -61.0676724
-        }
-}, 
+        },
+        "borders": [
+            "SE"
+        ]
+    },
     {
         "name": "Mauritania",
         "capital": "Nouakchott",
-        "language": ["Arabic"],
-        "isd": ["+222"],
+        "language": [
+            "Arabic"
+        ],
+        "isd": [
+            "+222"
+        ],
         "currency": "Mauritanian Ouguiya",
         "currency_code": "MRU",
         "country_code": "MR",
         "capital_geo": {
             "lat": 18.0792379,
             "lng": -15.9780071
-        }
-}, 
+        },
+        "borders": [
+            "SE"
+        ]
+    },
     {
         "name": "Mauritius",
         "capital": "Port-Louis",
-        "language": ["Arabic"],
-        "isd": ["+230"],
+        "language": [
+            "Arabic"
+        ],
+        "isd": [
+            "+230"
+        ],
         "currency": "Mauritian Rupee",
         "currency_code": "MUR",
         "country_code": "MU",
         "capital_geo": {
             "lat": -20.1624522,
             "lng": 57.5028044
-        }
-}, 
+        },
+        "borders": [
+            "SE"
+        ]
+    },
     {
         "name": "Mayotte",
         "capital": "Mamoutzou",
-        "language": [""],
-        "isd": ["+262269", "+262639"],
+        "language": [
+            ""
+        ],
+        "isd": [
+            "+262269",
+            "+262639"
+        ],
         "currency": "European Euro",
         "currency_code": "EUR",
         "country_code": "YT",
         "capital_geo": {
             "lat": -12.78234,
             "lng": 45.22878
-        }
-}, 
+        },
+        "borders": [
+            "SE"
+        ]
+    },
     {
         "name": "Mexico",
         "capital": "Ciudad de Mexico",
-        "language": ["Spanish"],
-        "isd": ["+52"],
+        "language": [
+            "Spanish"
+        ],
+        "isd": [
+            "+52"
+        ],
         "currency": "Mexican Peso",
         "currency_code": "MXN",
         "country_code": "MX",
         "capital_geo": {
             "lat": 19.4326296,
             "lng": -99.1331785
-        }
-}, 
+        },
+        "borders": [
+            "SE"
+        ]
+    },
     {
         "name": "Micronesia",
         "capital": "Palikir",
-        "language": ["Woleaian"],
-        "isd": ["+691"],
+        "language": [
+            "Woleaian"
+        ],
+        "isd": [
+            "+691"
+        ],
         "currency": "United States Dollar",
         "currency_code": "USD",
         "country_code": "FM",
         "capital_geo": {
             "lat": 6.920744,
             "lng": 158.1627143
-        }
-}, 
+        },
+        "borders": [
+            "SE"
+        ]
+    },
     {
         "name": "Moldova",
         "capital": "Chisinau",
-        "language": ["Romanian"],
-        "isd": ["+373"],
+        "language": [
+            "Romanian"
+        ],
+        "isd": [
+            "+373"
+        ],
         "currency": "Moldovan Leu",
         "currency_code": "MDL",
         "country_code": "MD",
         "capital_geo": {
             "lat": 47.0245117,
             "lng": 28.8322923
-        }
-}, 
+        },
+        "borders": [
+            "SE"
+        ]
+    },
     {
         "name": "Monaco",
         "capital": "Monaco",
-        "language": ["French"],
-        "isd": ["+377"],
+        "language": [
+            "French"
+        ],
+        "isd": [
+            "+377"
+        ],
         "currency": "European Euro",
         "currency_code": "EUR",
         "country_code": "MC",
         "capital_geo": {
             "lat": 43.7309697,
             "lng": 7.4248152
-        }
-}, 
+        },
+        "borders": [
+            "SE"
+        ]
+    },
     {
         "name": "Mongolia",
         "capital": "Ulaanbaatar",
-        "language": ["Mongolian "],
-        "isd": ["976"],
+        "language": [
+            "Mongolian "
+        ],
+        "isd": [
+            "976"
+        ],
         "currency": "Mongolian Tugrik",
         "currency_code": "MNT",
         "country_code": "MN",
         "capital_geo": {
             "lat": 47.9184676,
             "lng": 106.9177016
-        }
-}, 
+        },
+        "borders": [
+            "SE"
+        ]
+    },
     {
         "name": "Montserrat",
         "capital": "Plymouth",
-        "language": [""],
-        "isd": ["+1664"],
+        "language": [
+            ""
+        ],
+        "isd": [
+            "+1664"
+        ],
         "currency": "East Caribbean Dollar",
         "currency_code": "XCD",
         "country_code": "MS",
         "capital_geo": {
             "lat": 16.7054424,
             "lng": -62.2129752
-        }
-}, 
+        },
+        "borders": [
+            "SE"
+        ]
+    },
     {
         "name": "Morocco",
         "capital": "Rabat",
-        "language": ["Arabic", "Tamazight"],
-        "isd": ["+212"],
+        "language": [
+            "Arabic",
+            "Tamazight"
+        ],
+        "isd": [
+            "+212"
+        ],
         "currency": "Moroccan Dirham",
         "currency_code": "MAD",
         "country_code": "MA",
         "capital_geo": {
             "lat": 34.022405,
             "lng": -6.834543
-        }
-}, 
+        },
+        "borders": [
+            "SE"
+        ]
+    },
     {
         "name": "Mozambique",
         "capital": "Maputo",
-        "language": ["Portuguese"],
-        "isd": ["+258"],
+        "language": [
+            "Portuguese"
+        ],
+        "isd": [
+            "+258"
+        ],
         "currency": "Mozambican Metical",
         "currency_code": "MZN",
         "country_code": "MZ",
         "capital_geo": {
             "lat": -25.966213,
             "lng": 32.56745
-        }
-}, 
+        },
+        "borders": [
+            "SE"
+        ]
+    },
     {
         "name": "Myanmar",
         "capital": "Rangoon",
-        "language": ["Burmese"],
-        "isd": ["+95"],
+        "language": [
+            "Burmese"
+        ],
+        "isd": [
+            "+95"
+        ],
         "currency": "Myanmar Kyat",
         "currency_code": "MMK",
         "country_code": "MM",
         "capital_geo": {
             "lat": 16.7967129,
             "lng": 96.1609916
-        }
-}, 
+        },
+        "borders": [
+            "SE"
+        ]
+    },
     {
         "name": "Namibia",
         "capital": "Windhoek",
-        "language": ["English"],
-        "isd": ["+264"],
+        "language": [
+            "English"
+        ],
+        "isd": [
+            "+264"
+        ],
         "currency": "Namibian Dollar",
         "currency_code": "NAD",
         "country_code": "NA",
         "capital_geo": {
             "lat": -22.5776104,
             "lng": 17.0772739
-        }
-}, 
+        },
+        "borders": [
+            "SE"
+        ]
+    },
     {
         "name": "Nauru",
         "capital": "Yaren",
-        "language": ["English", "Nauruan"],
-        "isd": ["+674"],
+        "language": [
+            "English",
+            "Nauruan"
+        ],
+        "isd": [
+            "+674"
+        ],
         "currency": "Australian Dollar",
         "currency_code": "AUD",
         "country_code": "NR",
         "capital_geo": {
             "lat": -0.5469031,
             "lng": 166.9223528
-        }
-}, 
+        },
+        "borders": [
+            "SE"
+        ]
+    },
     {
         "name": "Nepal",
         "capital": "Kathmandu",
-        "language": ["Nepali"],
-        "isd": ["+977"],
+        "language": [
+            "Nepali"
+        ],
+        "isd": [
+            "+977"
+        ],
         "currency": "Nepalese Rupee",
         "currency_code": "NPR",
         "country_code": "NP",
         "capital_geo": {
             "lat": 27.708317,
             "lng": 85.3205817
-        }
-}, 
+        },
+        "borders": [
+            "SE"
+        ]
+    },
     {
         "name": "Netherlands",
         "capital": "Amsterdam",
-        "language": ["Dutch"],
-        "isd": ["+31"],
+        "language": [
+            "Dutch"
+        ],
+        "isd": [
+            "+31"
+        ],
         "currency": "European Euro",
         "currency_code": "EUR",
         "country_code": "NL",
         "capital_geo": {
             "lat": 52.3727598,
             "lng": 4.8936041
-        }
-}, 
+        },
+        "borders": [
+            "SE"
+        ]
+    },
     {
         "name": "Netherlands Antilles",
         "capital": "Willemstad",
-        "language": [""],
-        "isd": ["+599"],
+        "language": [
+            ""
+        ],
+        "isd": [
+            "+599"
+        ],
         "currency": "",
         "currency_code": "",
         "country_code": "AN",
         "capital_geo": {
             "lat": 12.1066695,
             "lng": -68.9351307
-        }
-}, 
+        },
+        "borders": [
+            "SE"
+        ]
+    },
     {
         "name": "New Caledonia",
         "capital": "Noum",
-        "language": [""],
-        "isd": ["+687"],
+        "language": [
+            ""
+        ],
+        "isd": [
+            "+687"
+        ],
         "currency": "CFP Franc",
         "currency_code": "XPF",
         "country_code": "NC",
         "capital_geo": {
             "lat": 14.8268979,
             "lng": 13.5832626
-        }
-}, 
+        },
+        "borders": [
+            "SE"
+        ]
+    },
     {
         "name": "New Zealand",
         "capital": "Wellington",
-        "language": ["English", "Maori"],
-        "isd": ["+64"],
+        "language": [
+            "English",
+            "Maori"
+        ],
+        "isd": [
+            "+64"
+        ],
         "currency": "New Zealand Dollar",
         "currency_code": "NZD",
         "country_code": "NZ",
         "capital_geo": {
             "lat": -41.2887953,
             "lng": 174.7772114
-        }
-}, 
+        },
+        "borders": [
+            "SE"
+        ]
+    },
     {
         "name": "Nicaragua",
         "capital": "Managua",
-        "language": [""],
-        "isd": ["+505"],
+        "language": [
+            ""
+        ],
+        "isd": [
+            "+505"
+        ],
         "currency": "Nicaraguan Cordoba",
         "currency_code": "NIO",
         "country_code": "NI",
         "capital_geo": {
             "lat": 12.1459907,
             "lng": -86.2746665
-        }
-}, 
+        },
+        "borders": [
+            "SE"
+        ]
+    },
     {
         "name": "Niger",
         "capital": "Niamey",
-        "language": ["French"],
-        "isd": ["+227"],
+        "language": [
+            "French"
+        ],
+        "isd": [
+            "+227"
+        ],
         "currency": "West African CFA Franc",
         "currency_code": "XOF",
         "country_code": "NE",
         "capital_geo": {
             "lat": 13.524834,
             "lng": 2.109823
-        }
-}, 
+        },
+        "borders": [
+            "SE"
+        ]
+    },
     {
         "name": "Nigeria",
         "capital": "Abuja",
-        "language": ["English"],
-        "isd": ["+234"],
+        "language": [
+            "English"
+        ],
+        "isd": [
+            "+234"
+        ],
         "currency": "Nigerian Naira",
         "currency_code": "NGN",
         "country_code": "NG",
         "capital_geo": {
             "lat": 9.0643305,
             "lng": 7.4892974
-        }
-}, 
+        },
+        "borders": [
+            "SE"
+        ]
+    },
     {
         "name": "Niue",
         "capital": "Alofi",
-        "language": ["English", "Niuean"],
-        "isd": ["+683"],
+        "language": [
+            "English",
+            "Niuean"
+        ],
+        "isd": [
+            "+683"
+        ],
         "currency": "New Zealand Dollar",
         "currency_code": "NZD",
         "country_code": "NU",
         "capital_geo": {
             "lat": -19.0534159,
             "lng": -169.919199
-        }
-}, 
+        },
+        "borders": [
+            "SE"
+        ]
+    },
     {
         "name": "Norfolk Island",
         "capital": "Kingston",
-        "language": ["English", "Norfuk"],
-        "isd": ["+6723"],
+        "language": [
+            "English",
+            "Norfuk"
+        ],
+        "isd": [
+            "+6723"
+        ],
         "currency": "Australian Dollar",
         "currency_code": "AUD",
         "country_code": "NF",
         "capital_geo": {
             "lat": -29.060556,
             "lng": 167.961944
-        }
-}, 
+        },
+        "borders": [
+            "SE"
+        ]
+    },
     {
         "name": "Northern Mariana Islands",
         "capital": "Saipan",
-        "language": ["Chamorro", "Carolinian", "English"],
-        "isd": ["+1670"],
+        "language": [
+            "Chamorro",
+            "Carolinian",
+            "English"
+        ],
+        "isd": [
+            "+1670"
+        ],
         "currency": "United States Dollar",
         "currency_code": "USD",
         "country_code": "MP",
         "capital_geo": {
             "lat": 15.1909825,
             "lng": 145.746743
-        }
-}, 
+        },
+        "borders": [
+            "SE"
+        ]
+    },
     {
         "name": "Norway",
         "capital": "Oslo",
-        "language": ["Norwegian", "Sami"],
-        "isd": ["+47"],
+        "language": [
+            "Norwegian",
+            "Sami"
+        ],
+        "isd": [
+            "+47"
+        ],
         "currency": "Norwegian Kone",
         "currency_code": "NOK",
         "country_code": "NO",
         "capital_geo": {
             "lat": 59.9133301,
             "lng": 10.7389701
-        }
-}, 
+        },
+        "borders": [
+            "SE"
+        ]
+    },
     {
         "name": "Oman",
         "capital": "Mascat",
-        "language": ["Arabic"],
-        "isd": ["+968"],
+        "language": [
+            "Arabic"
+        ],
+        "isd": [
+            "+968"
+        ],
         "currency": "Omani Rial",
         "currency_code": "OMR",
         "country_code": "OM",
         "capital_geo": {
             "lat": 23.5882019,
             "lng": 58.3829448
-        }
-}, 
+        },
+        "borders": [
+            "SE"
+        ]
+    },
     {
         "name": "Pakistan",
         "capital": "Islamabad",
-        "language": ["English", "Urdu"],
-        "isd": ["+92"],
+        "language": [
+            "English",
+            "Urdu"
+        ],
+        "isd": [
+            "+92"
+        ],
         "currency": "Pakistani Rupee",
         "currency_code": "PKR",
         "country_code": "PK",
         "capital_geo": {
             "lat": 33.6938118,
             "lng": 73.0651511
-        }
-}, 
+        },
+        "borders": [
+            "SE"
+        ]
+    },
     {
         "name": "Palau",
         "capital": "Koror",
-        "language": ["English", "Palauan"],
-        "isd": ["+680"],
+        "language": [
+            "English",
+            "Palauan"
+        ],
+        "isd": [
+            "+680"
+        ],
         "currency": "United States Dollar",
         "currency_code": "USD",
         "country_code": "PW",
         "capital_geo": {
             "lat": 7.343275,
             "lng": 134.4766767
-        }
-}, 
+        },
+        "borders": [
+            "SE"
+        ]
+    },
     {
         "name": "Palestinian",
         "capital": "Gaza",
-        "language": ["Arabic"],
-        "isd": ["+970"],
+        "language": [
+            "Arabic"
+        ],
+        "isd": [
+            "+970"
+        ],
         "currency": "",
         "currency_code": "",
         "country_code": "PS",
         "capital_geo": {
             "lat": 31.4432234,
             "lng": 34.360007
-        }
-}, 
+        },
+        "borders": [
+            "SE"
+        ]
+    },
     {
         "name": "Panama",
         "capital": "Ciudad de Panama",
-        "language": ["Spanish"],
-        "isd": ["+507"],
+        "language": [
+            "Spanish"
+        ],
+        "isd": [
+            "+507"
+        ],
         "currency": "United States Dollar",
         "currency_code": "USD",
         "country_code": "PA",
         "capital_geo": {
             "lat": 8.9714493,
             "lng": -79.5341802
-        }
-}, 
+        },
+        "borders": [
+            "SE"
+        ]
+    },
     {
         "name": "Papua New Guinea",
         "capital": "Port Moresby",
-        "language": ["English", "Hiri Motu", "Tok Pisin"],
-        "isd": ["+675"],
+        "language": [
+            "English",
+            "Hiri Motu",
+            "Tok Pisin"
+        ],
+        "isd": [
+            "+675"
+        ],
         "currency": "Papau New Guinean Kina",
         "currency_code": "PGK",
         "country_code": "PG",
         "capital_geo": {
             "lat": -9.4743301,
             "lng": 147.1599504
-        }
-}, 
+        },
+        "borders": [
+            "SE"
+        ]
+    },
     {
         "name": "Paraguay",
         "capital": "Asuncion",
-        "language": ["Spanish", "Guarani"],
-        "isd": ["+595"],
+        "language": [
+            "Spanish",
+            "Guarani"
+        ],
+        "isd": [
+            "+595"
+        ],
         "currency": "Paraguayan Guarani",
         "currency_code": "PYG",
         "country_code": "PY",
         "capital_geo": {
             "lat": -25.2800459,
             "lng": -57.6343814
-        }
-}, 
+        },
+        "borders": [
+            "SE"
+        ]
+    },
     {
         "name": "Peru",
         "capital": "Lima",
-        "language": ["Spanish", "Aymara", "Quechua"],
-        "isd": ["+51"],
+        "language": [
+            "Spanish",
+            "Aymara",
+            "Quechua"
+        ],
+        "isd": [
+            "+51"
+        ],
         "currency": "Peruvian Sol",
         "currency_code": "PEN",
         "country_code": "PE",
         "capital_geo": {
             "lat": -12.0621065,
             "lng": -77.0365256
-        }
-}, 
+        },
+        "borders": [
+            "SE"
+        ]
+    },
     {
         "name": "Philippines",
         "capital": "Manila",
-        "language": ["English", "Filipino"],
-        "isd": ["+63"],
+        "language": [
+            "English",
+            "Filipino"
+        ],
+        "isd": [
+            "+63"
+        ],
         "currency": "Philippine Peso",
         "currency_code": "PHP",
         "country_code": "PH",
         "capital_geo": {
             "lat": 14.5948914,
             "lng": 120.9782618
-        }
-}, 
+        },
+        "borders": [
+            "SE"
+        ]
+    },
     {
         "name": "Pitcairn",
         "capital": "Adamstown",
-        "language": [""],
-        "isd": ["+64"],
+        "language": [
+            ""
+        ],
+        "isd": [
+            "+64"
+        ],
         "currency": "New Zealand Dollar",
         "currency_code": "NZD",
         "country_code": "PN",
         "capital_geo": {
             "lat": -25.066667,
             "lng": -130.100205
-        }
-}, 
+        },
+        "borders": [
+            "SE"
+        ]
+    },
     {
         "name": "Poland",
         "capital": "Warszawa",
-        "language": ["Polish"],
-        "isd": ["+48"],
+        "language": [
+            "Polish"
+        ],
+        "isd": [
+            "+48"
+        ],
         "currency": "Polish Zloty",
         "currency_code": "PLN",
         "country_code": "PL",
         "capital_geo": {
             "lat": 52.2319581,
             "lng": 21.0067249
-        }
-}, 
+        },
+        "borders": [
+            "SE"
+        ]
+    },
     {
         "name": "Portugal",
         "capital": "Lisboa",
-        "language": ["Portuguese"],
-        "isd": ["+351"],
+        "language": [
+            "Portuguese"
+        ],
+        "isd": [
+            "+351"
+        ],
         "currency": "European Euro",
         "currency_code": "EUR",
         "country_code": "PT",
         "capital_geo": {
             "lat": 38.7077507,
             "lng": -9.1365919
-        }
-}, 
+        },
+        "borders": [
+            "SE"
+        ]
+    },
     {
         "name": "Puerto Rico",
         "capital": "San Juan",
-        "language": [""],
-        "isd": ["+1787", "+1939"],
+        "language": [
+            ""
+        ],
+        "isd": [
+            "+1787",
+            "+1939"
+        ],
         "currency": "United States Dollar",
         "currency_code": "USD",
         "country_code": "PR",
         "capital_geo": {
             "lat": 18.465299,
             "lng": -66.116666
-        }
-}, 
+        },
+        "borders": [
+            "SE"
+        ]
+    },
     {
         "name": "Qatar",
         "capital": "Doha",
-        "language": ["Arabic"],
-        "isd": ["+974"],
+        "language": [
+            "Arabic"
+        ],
+        "isd": [
+            "+974"
+        ],
         "currency": "Qatari Riyal",
         "currency_code": "QAR",
         "country_code": "QA",
         "capital_geo": {
             "lat": 25.2856329,
             "lng": 51.5264162
-        }
-}, 
+        },
+        "borders": [
+            "SE"
+        ]
+    },
     {
         "name": "Reunion",
         "capital": "Saint-Denis",
-        "language": [""],
-        "isd": ["+262"],
+        "language": [
+            ""
+        ],
+        "isd": [
+            "+262"
+        ],
         "currency": "European Euro",
         "currency_code": "EUR",
         "country_code": "RE",
         "capital_geo": {
             "lat": -20.8789,
             "lng": 55.4481
-        }
-}, 
+        },
+        "borders": [
+            "SE"
+        ]
+    },
     {
         "name": "Romania",
         "capital": "Bucuresti",
-        "language": ["Romanian"],
-        "isd": ["+40"],
+        "language": [
+            "Romanian"
+        ],
+        "isd": [
+            "+40"
+        ],
         "currency": "Romanian Leu",
         "currency_code": "RON",
         "country_code": "RO",
         "capital_geo": {
             "lat": 44.4361414,
             "lng": 26.1027202
-        }
-}, 
+        },
+        "borders": [
+            "SE"
+        ]
+    },
     {
         "name": "Russia",
         "capital": "Moscow",
-        "language": ["Russian"],
-        "isd": ["+7"],
+        "language": [
+            "Russian"
+        ],
+        "isd": [
+            "+7"
+        ],
         "currency": "Russian Ruble",
         "currency_code": "RUB",
         "country_code": "RU",
         "capital_geo": {
             "lat": 55.7504461,
             "lng": 37.6174943
-        }
-}, 
+        },
+        "borders": [
+            "SE"
+        ]
+    },
     {
         "name": "Rwanda",
         "capital": "Kigali",
-        "language": ["English", "French", "Kinyarwanda", "Swahili"],
-        "isd": ["+250"],
+        "language": [
+            "English",
+            "French",
+            "Kinyarwanda",
+            "Swahili"
+        ],
+        "isd": [
+            "+250"
+        ],
         "currency": "Rwandan Franc",
         "currency_code": "RWF",
         "country_code": "RW",
         "capital_geo": {
             "lat": -1.950851,
             "lng": 30.061507
-        }
-}, 
+        },
+        "borders": [
+            "SE"
+        ]
+    },
     {
         "name": "Saint Helena",
         "capital": "Jamestown",
-        "language": [""],
-        "isd": ["+290"],
+        "language": [
+            ""
+        ],
+        "isd": [
+            "+290"
+        ],
         "currency": "Saint Helena Pound",
         "currency_code": "SHP",
         "country_code": "SH",
         "capital_geo": {
             "lat": -15.9277296,
             "lng": -5.7160872
-        }
-}, 
+        },
+        "borders": [
+            "SE"
+        ]
+    },
     {
         "name": "Saint Kitts and Nevis",
         "capital": "Basseterre",
-        "language": ["English"],
-        "isd": ["+1869"],
+        "language": [
+            "English"
+        ],
+        "isd": [
+            "+1869"
+        ],
         "currency": "East Caribbean Dollar",
         "currency_code": "XCD",
         "country_code": "KN",
         "capital_geo": {
             "lat": 17.2960919,
             "lng": -62.722301
-        }
-}, 
+        },
+        "borders": [
+            "SE"
+        ]
+    },
     {
         "name": "Saint Lucia",
         "capital": "Castries",
-        "language": ["English"],
-        "isd": ["+1758"],
+        "language": [
+            "English"
+        ],
+        "isd": [
+            "+1758"
+        ],
         "currency": "East Caribbean Dollar",
         "currency_code": "XCD",
         "country_code": "LC",
         "capital_geo": {
             "lat": 13.9090438,
             "lng": -60.9779241
-        }
-}, 
+        },
+        "borders": [
+            "SE"
+        ]
+    },
     {
         "name": "Saint Pierre and Miquelon",
         "capital": "Saint-Pierre",
-        "language": [""],
-        "isd": ["+508"],
+        "language": [
+            ""
+        ],
+        "isd": [
+            "+508"
+        ],
         "currency": "European Euro",
         "currency_code": "EUR",
         "country_code": "PM",
         "capital_geo": {
             "lat": 46.7775497,
             "lng": -56.1768672
-        }
-}, 
+        },
+        "borders": [
+            "SE"
+        ]
+    },
     {
         "name": "Saint Vincent and the Grenadines",
         "capital": "Kingstown",
-        "language": ["English"],
-        "isd": ["+1784"],
+        "language": [
+            "English"
+        ],
+        "isd": [
+            "+1784"
+        ],
         "currency": "East Caribbean Dollar",
         "currency_code": "XCD",
         "country_code": "VC",
         "capital_geo": {
             "lat": 13.157778,
             "lng": -61.225
-        }
-}, 
+        },
+        "borders": [
+            "SE"
+        ]
+    },
     {
         "name": "Samoa",
         "capital": "Apia",
-        "language": ["English"],
-        "isd": ["+685"],
+        "language": [
+            "English"
+        ],
+        "isd": [
+            "+685"
+        ],
         "currency": "Samoan Tala",
         "currency_code": "WST",
         "country_code": "WS",
         "capital_geo": {
             "lat": -13.8343691,
             "lng": -171.7692793
-        }
-}, 
+        },
+        "borders": [
+            "SE"
+        ]
+    },
     {
         "name": "San Marino",
         "capital": "San Marino",
-        "language": ["Italian"],
-        "isd": ["+378"],
+        "language": [
+            "Italian"
+        ],
+        "isd": [
+            "+378"
+        ],
         "currency": "European Euro",
         "currency_code": "EUR",
         "country_code": "SM",
         "capital_geo": {
             "lat": 43.9458623,
             "lng": 12.458306
-        }
-}, 
+        },
+        "borders": [
+            "SE"
+        ]
+    },
     {
         "name": "Sao Tome and Principe",
         "capital": "Sao Tome",
-        "language": ["Portuguese"],
-        "isd": ["+239"],
+        "language": [
+            "Portuguese"
+        ],
+        "isd": [
+            "+239"
+        ],
         "currency": "Sao Tome and Principe Dobra",
         "currency_code": "STN",
         "country_code": "ST",
         "capital_geo": {
             "lat": 0.3389242,
             "lng": 6.7313031
-        }
-}, 
+        },
+        "borders": [
+            "SE"
+        ]
+    },
     {
         "name": "Saudi Arabia",
         "capital": "Riyadh",
-        "language": ["Arabic"],
-        "isd": ["+966"],
+        "language": [
+            "Arabic"
+        ],
+        "isd": [
+            "+966"
+        ],
         "currency": "Saudi Arabia Riyal",
         "currency_code": "SAR",
         "country_code": "SA",
         "capital_geo": {
             "lat": 24.638916,
             "lng": 46.7160104
-        }
-}, 
+        },
+        "borders": [
+            "SE"
+        ]
+    },
     {
         "name": "Senegal",
         "capital": "Dakar",
-        "language": ["French"],
-        "isd": ["+221"],
+        "language": [
+            "French"
+        ],
+        "isd": [
+            "+221"
+        ],
         "currency": "West African CFA Franc",
         "currency_code": "XOF",
         "country_code": "SN",
         "capital_geo": {
             "lat": 14.693425,
             "lng": -17.447938
-        }
-}, 
+        },
+        "borders": [
+            "SE"
+        ]
+    },
     {
         "name": "Serbia and Montenegro",
         "capital": "Belgrade",
-        "language": ["Serbian"],
-        "isd": ["+381"],
+        "language": [
+            "Serbian"
+        ],
+        "isd": [
+            "+381"
+        ],
         "currency": "",
         "currency_code": "",
         "country_code": "CS",
         "capital_geo": {
             "lat": 44.8178131,
             "lng": 20.4568974
-        }
-}, 
+        },
+        "borders": [
+            "SE"
+        ]
+    },
     {
         "name": "Seychelles",
         "capital": "Victoria",
-        "language": ["English", "French", "Seychellois Creole"],
-        "isd": ["+248"],
+        "language": [
+            "English",
+            "French",
+            "Seychellois Creole"
+        ],
+        "isd": [
+            "+248"
+        ],
         "currency": "Seychellois Rupee",
         "currency_code": "SCR",
         "country_code": "SC",
         "capital_geo": {
             "lat": -4.6232085,
             "lng": 55.452359
-        }
-}, 
+        },
+        "borders": [
+            "SE"
+        ]
+    },
     {
         "name": "Sierra Leone",
         "capital": "Freetown",
-        "language": ["English"],
-        "isd": ["+232"],
+        "language": [
+            "English"
+        ],
+        "isd": [
+            "+232"
+        ],
         "currency": "Sierra Leonean Leone",
         "currency_code": "SLL",
         "country_code": "SL",
         "capital_geo": {
             "lat": 8.479004,
             "lng": -13.26795
-        }
-}, 
+        },
+        "borders": [
+            "SE"
+        ]
+    },
     {
         "name": "Singapore",
         "capital": "Singapore",
-        "language": ["English", "Malay", "Mandarin Chinese", "Tamil"],
-        "isd": ["+65"],
+        "language": [
+            "English",
+            "Malay",
+            "Mandarin Chinese",
+            "Tamil"
+        ],
+        "isd": [
+            "+65"
+        ],
         "currency": "Singapore Dollar",
         "currency_code": "SGD",
         "country_code": "SG",
         "capital_geo": {
             "lat": 1.357107,
             "lng": 103.8194992
-        }
-}, 
+        },
+        "borders": [
+            "SE"
+        ]
+    },
     {
         "name": "Slovakia",
         "capital": "Bratislava",
-        "language": ["Slovak"],
-        "isd": ["+421"],
+        "language": [
+            "Slovak"
+        ],
+        "isd": [
+            "+421"
+        ],
         "currency": "European Euro",
         "currency_code": "EUR",
         "country_code": "SK",
         "capital_geo": {
             "lat": 48.1435149,
             "lng": 17.108279
-        }
-}, 
+        },
+        "borders": [
+            "SE"
+        ]
+    },
     {
         "name": "Slovenia",
         "capital": "Ljubljana",
-        "language": ["Slovene"],
-        "isd": ["+386"],
+        "language": [
+            "Slovene"
+        ],
+        "isd": [
+            "+386"
+        ],
         "currency": "European Euro",
         "currency_code": "EUR",
         "country_code": "SI",
         "capital_geo": {
             "lat": 46.0500268,
             "lng": 14.5069289
-        }
-}, 
+        },
+        "borders": [
+            "SE"
+        ]
+    },
     {
         "name": "Solomon Islands",
         "capital": "Honiara",
-        "language": ["English"],
-        "isd": ["+677"],
+        "language": [
+            "English"
+        ],
+        "isd": [
+            "+677"
+        ],
         "currency": "Solomon Islands Dollar",
         "currency_code": "SBD",
         "country_code": "SB",
         "capital_geo": {
             "lat": -9.4377975,
             "lng": 159.9624175
-        }
-}, 
+        },
+        "borders": [
+            "SE"
+        ]
+    },
     {
         "name": "Somalia",
         "capital": "Mogadishu",
-        "language": ["Arabic"],
-        "isd": ["+252"],
+        "language": [
+            "Arabic"
+        ],
+        "isd": [
+            "+252"
+        ],
         "currency": "Somali Shilling",
         "currency_code": "SOS",
         "country_code": "SO",
         "capital_geo": {
             "lat": 2.0349312,
             "lng": 45.3419183
-        }
-}, 
+        },
+        "borders": [
+            "SE"
+        ]
+    },
     {
         "name": "South Africa",
         "capital": "Pretoria",
-        "language": ["Afrikaans", "English", "Southern Ndebele", "Sotho", "Northern Sotho", "Swazi", "Tsonga", "Tswana", "Venda", "Xhosa", "Zulu"],
-        "isd": ["+27"],
+        "language": [
+            "Afrikaans",
+            "English",
+            "Southern Ndebele",
+            "Sotho",
+            "Northern Sotho",
+            "Swazi",
+            "Tsonga",
+            "Tswana",
+            "Venda",
+            "Xhosa",
+            "Zulu"
+        ],
+        "isd": [
+            "+27"
+        ],
         "currency": "South African Rand",
         "currency_code": "ZAR",
         "country_code": "ZA",
         "capital_geo": {
             "lat": -25.7459277,
             "lng": 28.1879101
-        }
-}, 
+        },
+        "borders": [
+            "SE"
+        ]
+    },
     {
         "name": "South Georgia and the South Sandwich Islands",
         "capital": null,
-        "language": [""],
-        "isd": ["+500"],
+        "language": [
+            ""
+        ],
+        "isd": [
+            "+500"
+        ],
         "currency": "",
         "currency_code": "",
         "country_code": "GS",
         "capital_geo": {
             "lat": null,
             "lng": null
-        }
-}, 
+        },
+        "borders": [
+            "SE"
+        ]
+    },
     {
         "name": "Spain",
         "capital": "Madrid",
-        "language": ["Spanish"],
-        "isd": ["+34"],
+        "language": [
+            "Spanish"
+        ],
+        "isd": [
+            "+34"
+        ],
         "currency": "European Euro",
         "currency_code": "EUR",
         "country_code": "ES",
         "capital_geo": {
             "lat": 40.4167047,
             "lng": -3.7035825
-        }
-}, 
+        },
+        "borders": [
+            "SE"
+        ]
+    },
     {
         "name": "Sri Lanka",
         "capital": "Sri Jayawardenepura Kotte",
-        "language": ["Sinhala", "Tamil"],
-        "isd": ["+94"],
+        "language": [
+            "Sinhala",
+            "Tamil"
+        ],
+        "isd": [
+            "+94"
+        ],
         "currency": "Sri Lanka Rupee",
         "currency_code": "LKR",
         "country_code": "LK",
         "capital_geo": {
             "lat": 6.8883219,
             "lng": 79.9187415
-        }
-}, 
+        },
+        "borders": [
+            "SE"
+        ]
+    },
     {
         "name": "South Sudan",
         "capital": "Juba",
-        "language": ["English"],
-        "isd": ["+211"],
+        "language": [
+            "English"
+        ],
+        "isd": [
+            "+211"
+        ],
         "currency": "South Sudanese Pound",
         "currency_code": "SSP",
         "country_code": "SS",
         "capital_geo": {
             "lat": 4.8459246,
             "lng": 31.5959173
-        }
-}, 
+        },
+        "borders": [
+            "SE"
+        ]
+    },
     {
         "name": "Sudan",
         "capital": "Khartum",
-        "language": ["Arabic", "English"],
-        "isd": ["+249"],
+        "language": [
+            "Arabic",
+            "English"
+        ],
+        "isd": [
+            "+249"
+        ],
         "currency": "Sudanese Pound",
         "currency_code": "SDG",
         "country_code": "SD",
         "capital_geo": {
             "lat": 14.5844444,
             "lng": 29.4917691
-        }
-}, 
+        },
+        "borders": [
+            "SE"
+        ]
+    },
     {
         "name": "Suriname",
         "capital": "Paramaribo",
-        "language": ["Dutch"],
-        "isd": ["+597"],
+        "language": [
+            "Dutch"
+        ],
+        "isd": [
+            "+597"
+        ],
         "currency": "Surinamese Dollar",
         "currency_code": "SRD",
         "country_code": "SR",
         "capital_geo": {
             "lat": 4.1413025,
             "lng": -56.0771187
-        }
-}, 
+        },
+        "borders": [
+            "SE"
+        ]
+    },
     {
         "name": "Svalbard and Jan Mayen",
         "capital": "Longyearbyen",
-        "language": [""],
-        "isd": ["+4779"],
+        "language": [
+            ""
+        ],
+        "isd": [
+            "+4779"
+        ],
         "currency": "Norwegian Krone",
         "currency_code": "NOK",
         "country_code": "SJ",
         "capital_geo": {
             "lat": 78.2231558,
             "lng": 15.6463656
-        }
-}, 
+        },
+        "borders": [
+            "SE"
+        ]
+    },
     {
         "name": "Swaziland",
         "capital": "Mbabane",
-        "language": [""],
-        "isd": [""],
+        "language": [
+            ""
+        ],
+        "isd": [
+            ""
+        ],
         "currency": "",
         "currency_code": "",
         "country_code": "SZ",
         "capital_geo": {
             "lat": -26.325745,
             "lng": 31.144663
-        }
-}, 
+        },
+        "borders": [
+            "SE"
+        ]
+    },
     {
         "name": "Sweden",
         "capital": "Stockholm",
-        "language": ["Swedish"],
-        "isd": ["+46"],
+        "language": [
+            "Swedish"
+        ],
+        "isd": [
+            "+46"
+        ],
         "currency": "Swedish Krona",
         "currency_code": "SEK",
         "country_code": "SE",
         "capital_geo": {
             "lat": 59.3251172,
             "lng": 18.0710935
-        }
-}, 
+        },
+        "borders": [
+            "SE"
+        ]
+    },
     {
         "name": "Switzerland",
         "capital": "Bern",
-        "language": ["French", "German", "Italian", "Romansh"],
-        "isd": ["+41"],
+        "language": [
+            "French",
+            "German",
+            "Italian",
+            "Romansh"
+        ],
+        "isd": [
+            "+41"
+        ],
         "currency": "Swiss Franc",
         "currency_code": "CHF",
         "country_code": "CH",
         "capital_geo": {
             "lat": 46.9482713,
             "lng": 7.4514512
-        }
-}, 
+        },
+        "borders": [
+            "SE"
+        ]
+    },
     {
         "name": "Syria",
         "capital": "Damascus",
-        "language": ["Arabic"],
-        "isd": ["+963"],
+        "language": [
+            "Arabic"
+        ],
+        "isd": [
+            "+963"
+        ],
         "currency": "Syrian Pound",
         "currency_code": "SYP",
         "country_code": "SY",
         "capital_geo": {
             "lat": 33.5130695,
             "lng": 36.3095814
-        }
-}, 
+        },
+        "borders": [
+            "SE"
+        ]
+    },
     {
         "name": "Taiwan",
         "capital": "Taipei",
-        "language": ["Mandarin Chinese"],
-        "isd": ["+886"],
+        "language": [
+            "Mandarin Chinese"
+        ],
+        "isd": [
+            "+886"
+        ],
         "currency": "New Taiwan Dollar",
         "currency_code": "TWD",
         "country_code": "TW",
         "capital_geo": {
             "lat": 25.0375198,
             "lng": 121.5636796
-        }
-}, 
+        },
+        "borders": [
+            "SE"
+        ]
+    },
     {
         "name": "Tajikistan",
         "capital": "Dushanbe",
-        "language": ["Tajik"],
-        "isd": ["+992"],
+        "language": [
+            "Tajik"
+        ],
+        "isd": [
+            "+992"
+        ],
         "currency": "Tajikistani Somoni",
         "currency_code": "TJS",
         "country_code": "TJ",
         "capital_geo": {
             "lat": 38.5425835,
             "lng": 68.8152142
-        }
-}, 
+        },
+        "borders": [
+            "SE"
+        ]
+    },
     {
         "name": "Tanzania",
         "capital": "Dodoma",
-        "language": ["English"],
-        "isd": ["+255"],
+        "language": [
+            "English"
+        ],
+        "isd": [
+            "+255"
+        ],
         "currency": "Tanzanian Shilling",
         "currency_code": "TZS",
         "country_code": "TZ",
         "capital_geo": {
             "lat": -6.1791181,
             "lng": 35.7468174
-        }
-}, 
+        },
+        "borders": [
+            "SE"
+        ]
+    },
     {
         "name": "Thailand",
         "capital": "Bangkok",
-        "language": ["Thai"],
-        "isd": ["+66"],
+        "language": [
+            "Thai"
+        ],
+        "isd": [
+            "+66"
+        ],
         "currency": "Thai Baht",
         "currency_code": "THB",
         "country_code": "TH",
         "capital_geo": {
             "lat": 13.7524938,
             "lng": 100.4935089
-        }
-}, 
+        },
+        "borders": [
+            "SE"
+        ]
+    },
     {
         "name": "The Democratic Republic of Congo",
         "capital": "Kinshasa",
-        "language": [""],
-        "isd": ["+243"],
+        "language": [
+            ""
+        ],
+        "isd": [
+            "+243"
+        ],
         "currency": "Congolese Franc",
         "currency_code": "CDF",
         "country_code": "TH",
         "capital_geo": {
             "lat": -4.3217055,
             "lng": 15.3125974
-        }
-}, 
+        },
+        "borders": [
+            "SE"
+        ]
+    },
     {
         "name": "Timor Leste",
         "capital": "Dili",
-        "language": [""],
-        "isd": [""],
+        "language": [
+            ""
+        ],
+        "isd": [
+            ""
+        ],
         "currency": "United States Dollar",
         "currency_code": "USD",
         "country_code": "TL",
         "capital_geo": {
             "lat": -8.553611,
             "lng": 125.578333
-        }
-}, 
+        },
+        "borders": [
+            "SE"
+        ]
+    },
     {
         "name": "Togo",
         "capital": "Lome",
-        "language": ["French"],
-        "isd": ["+228"],
+        "language": [
+            "French"
+        ],
+        "isd": [
+            "+228"
+        ],
         "currency": "West African CFA Franc",
         "currency_code": "XOF",
         "country_code": "TG",
         "capital_geo": {
             "lat": 6.130419,
             "lng": 1.215829
-        }
-}, 
+        },
+        "borders": [
+            "SE"
+        ]
+    },
     {
         "name": "Tokelau",
         "capital": "Fakaofo",
-        "language": ["English", "Tokelauan"],
-        "isd": ["+690"],
+        "language": [
+            "English",
+            "Tokelauan"
+        ],
+        "isd": [
+            "+690"
+        ],
         "currency": "New Zealand Dollar",
         "currency_code": "NZD",
         "country_code": "TK",
         "capital_geo": {
             "lat": -9.3743046,
             "lng": -171.2645365
-        }
-}, 
+        },
+        "borders": [
+            "SE"
+        ]
+    },
     {
         "name": "Tonga",
         "capital": "Nuku'alofa",
-        "language": ["English", "Tongan"],
-        "isd": ["+676"],
+        "language": [
+            "English",
+            "Tongan"
+        ],
+        "isd": [
+            "+676"
+        ],
         "currency": "Tongan Pa'anga",
         "currency_code": "TOP",
         "country_code": "TO",
         "capital_geo": {
             "lat": -21.1343401,
             "lng": -175.201808
-        }
-}, 
+        },
+        "borders": [
+            "SE"
+        ]
+    },
     {
         "name": "Trinidad and Tobago",
         "capital": "Port-of-Spain",
-        "language": ["English"],
-        "isd": ["+1868"],
+        "language": [
+            "English"
+        ],
+        "isd": [
+            "+1868"
+        ],
         "currency": "Trinidad and Tobago Dollar",
         "currency_code": "TTD",
         "country_code": "TT",
         "capital_geo": {
             "lat": 10.6572678,
             "lng": -61.5180173
-        }
-}, 
+        },
+        "borders": [
+            "SE"
+        ]
+    },
     {
         "name": "Tunisia",
         "capital": "Tunis",
-        "language": ["Tunisian", "Arabic", "English"],
-        "isd": ["+216"],
+        "language": [
+            "Tunisian",
+            "Arabic",
+            "English"
+        ],
+        "isd": [
+            "+216"
+        ],
         "currency": "Tunisian Dinar",
         "currency_code": "TND",
         "country_code": "TN",
         "capital_geo": {
             "lat": 33.8439408,
             "lng": 9.400138
-        }
-}, 
+        },
+        "borders": [
+            "SE"
+        ]
+    },
     {
         "name": "Turkey",
         "capital": "Ankara",
-        "language": ["Turkish"],
-        "isd": ["+90"],
+        "language": [
+            "Turkish"
+        ],
+        "isd": [
+            "+90"
+        ],
         "currency": "Turkish Lira",
         "currency_code": "TRY",
         "country_code": "TR",
         "capital_geo": {
             "lat": 39.9207886,
             "lng": 32.8540482
-        }
-}, 
+        },
+        "borders": [
+            "SE"
+        ]
+    },
     {
         "name": "Turkmenistan",
         "capital": "Ashgabat",
-        "language": ["Turkmen"],
-        "isd": ["+993"],
+        "language": [
+            "Turkmen"
+        ],
+        "isd": [
+            "+993"
+        ],
         "currency": "Turkmen Manat",
         "currency_code": "TMT",
         "country_code": "TM",
         "capital_geo": {
             "lat": 37.9404648,
             "lng": 58.3823487
-        }
-}, 
+        },
+        "borders": [
+            "SE"
+        ]
+    },
     {
         "name": "Turks and Caicos Islands",
         "capital": "Cockburn Town",
-        "language": [""],
-        "isd": ["+1649"],
+        "language": [
+            ""
+        ],
+        "isd": [
+            "+1649"
+        ],
         "currency": "United States Dollar",
         "currency_code": "USD",
         "country_code": "TC",
         "capital_geo": {
             "lat": 21.4607723,
             "lng": -71.1399956
-        }
-}, 
+        },
+        "borders": [
+            "SE"
+        ]
+    },
     {
         "name": "Tuvalu",
         "capital": "Funafuti",
-        "language": ["English"],
-        "isd": ["+688"],
+        "language": [
+            "English"
+        ],
+        "isd": [
+            "+688"
+        ],
         "currency": "Australian Dollar",
         "currency_code": "AUD",
         "country_code": "TV",
         "capital_geo": {
             "lat": -8.5199633,
             "lng": 179.1982548
-        }
-}, 
+        },
+        "borders": [
+            "SE"
+        ]
+    },
     {
         "name": "Uganda",
         "capital": "Kampala",
-        "language": ["English", "Swahili"],
-        "isd": ["+256"],
+        "language": [
+            "English",
+            "Swahili"
+        ],
+        "isd": [
+            "+256"
+        ],
         "currency": "Ugandan Shilling",
         "currency_code": "UGX",
         "country_code": "UG",
         "capital_geo": {
             "lat": 0.3177137,
             "lng": 32.5813539
-        }
-}, 
+        },
+        "borders": [
+            "SE"
+        ]
+    },
     {
         "name": "Ukraine",
         "capital": "Kyiv",
-        "language": ["Ukrainian"],
-        "isd": ["+380"],
+        "language": [
+            "Ukrainian"
+        ],
+        "isd": [
+            "+380"
+        ],
         "currency": "Ukrainian Hryvnia",
         "currency_code": "UAH",
         "country_code": "UA",
         "capital_geo": {
             "lat": 50.4500336,
             "lng": 30.5241361
-        }
-}, 
+        },
+        "borders": [
+            "SE"
+        ]
+    },
     {
         "name": "United Arab Emirates",
         "capital": "Abu Dhabi",
-        "language": ["Arabic"],
-        "isd": ["+971"],
+        "language": [
+            "Arabic"
+        ],
+        "isd": [
+            "+971"
+        ],
         "currency": "UAE Dirham",
         "currency_code": "AED",
         "country_code": "AE",
         "capital_geo": {
             "lat": 24.4538352,
             "lng": 54.3774014
-        }
-}, 
+        },
+        "borders": [
+            "SE"
+        ]
+    },
     {
         "name": "United Kingdom",
         "capital": "London",
-        "language": ["English"],
-        "isd": ["+44"],
+        "language": [
+            "English"
+        ],
+        "isd": [
+            "+44"
+        ],
         "currency": "Pound Sterling",
         "currency_code": "GBP",
         "country_code": "GB",
         "capital_geo": {
             "lat": 51.5073219,
             "lng": -0.1276474
-        }
-}, 
+        },
+        "borders": [
+            "SE"
+        ]
+    },
     {
         "name": "United States",
         "capital": "Washington",
-        "language": ["English"],
-        "isd": ["+1"],
+        "language": [
+            "English"
+        ],
+        "isd": [
+            "+1"
+        ],
         "currency": "United States Dollar",
         "currency_code": "USD",
         "country_code": "US",
         "capital_geo": {
             "lat": 38.8950368,
             "lng": -77.0365427
-        }
-}, 
+        },
+        "borders": [
+            "SE"
+        ]
+    },
     {
         "name": "United States Minor Outlying Islands",
         "capital": null,
-        "language": ["English"],
-        "isd": ["+246"],
+        "language": [
+            "English"
+        ],
+        "isd": [
+            "+246"
+        ],
         "currency": "",
         "currency_code": "",
         "country_code": "UM",
         "capital_geo": {
             "lat": null,
             "lng": null
-        }
-}, 
+        },
+        "borders": [
+            "SE"
+        ]
+    },
     {
         "name": "Uruguay",
         "capital": "Montevideo",
-        "language": [""],
-        "isd": ["+598"],
+        "language": [
+            ""
+        ],
+        "isd": [
+            "+598"
+        ],
         "currency": "Uruguayan Peso",
         "currency_code": "UYU",
         "country_code": "UY",
         "capital_geo": {
             "lat": -34.9058916,
             "lng": -56.1913095
-        }
-}, 
+        },
+        "borders": [
+            "SE"
+        ]
+    },
     {
         "name": "Uzbekistan",
         "capital": "Tashkent",
-        "language": ["Uzbek"],
-        "isd": ["+998"],
+        "language": [
+            "Uzbek"
+        ],
+        "isd": [
+            "+998"
+        ],
         "currency": "Uzbekistani Som",
         "currency_code": "UZS",
         "country_code": "UZ",
         "capital_geo": {
             "lat": 41.3123363,
             "lng": 69.2787079
-        }
-}, 
+        },
+        "borders": [
+            "SE"
+        ]
+    },
     {
         "name": "Vanuatu",
         "capital": "Port-Vila",
-        "language": ["English", "French"],
-        "isd": ["+678"],
+        "language": [
+            "English",
+            "French"
+        ],
+        "isd": [
+            "+678"
+        ],
         "currency": "Vanuatu Vatu",
         "currency_code": "VUV",
         "country_code": "VU",
         "capital_geo": {
             "lat": -17.7414972,
             "lng": 168.3150163
-        }
-}, 
+        },
+        "borders": [
+            "SE"
+        ]
+    },
     {
         "name": "Venezuela",
         "capital": "Caracas",
-        "language": ["Spanish"],
-        "isd": ["+58"],
+        "language": [
+            "Spanish"
+        ],
+        "isd": [
+            "+58"
+        ],
         "currency": "Venezuelan Boliver",
         "currency_code": "VES",
         "country_code": "VE",
         "capital_geo": {
             "lat": 10.506098,
             "lng": -66.9146017
-        }
-},  
+        },
+        "borders": [
+            "SE"
+        ]
+    },
     {
         "name": "Vatican City",
         "capital": "Vatican City",
-        "language": ["Italian", "Latin"],
-        "isd": ["+379"],
+        "language": [
+            "Italian",
+            "Latin"
+        ],
+        "isd": [
+            "+379"
+        ],
         "currency": "European Euro",
         "currency_code": "EUR",
         "country_code": "VA",
         "capital_geo": {
             "lat": 41.903411,
             "lng": 12.4528527
-        }
-}, 
+        },
+        "borders": [
+            "SE"
+        ]
+    },
     {
         "name": "Vietnam",
         "capital": "Hanoi",
-        "language": ["Vietnamese"],
-        "isd": ["+84"],
+        "language": [
+            "Vietnamese"
+        ],
+        "isd": [
+            "+84"
+        ],
         "currency": "Vietnamese Dong",
         "currency_code": "VND",
         "country_code": "VN",
         "capital_geo": {
             "lat": 21.0294498,
             "lng": 105.8544441
-        }
-}, 
+        },
+        "borders": [
+            "SE"
+        ]
+    },
     {
         "name": "Virgin Islands, British",
         "capital": "Road Town",
-        "language": [""],
-        "isd": [""],
+        "language": [
+            ""
+        ],
+        "isd": [
+            ""
+        ],
         "currency": "",
         "currency_code": "",
         "country_code": "VG",
         "capital_geo": {
             "lat": 18.4257128,
             "lng": -64.6232227
-        }
-}, 
+        },
+        "borders": [
+            "SE"
+        ]
+    },
     {
         "name": "Virgin Islands, U.S.",
         "capital": "Charlotte Amalie",
-        "language": [""],
-        "isd": ["+1340"],
+        "language": [
+            ""
+        ],
+        "isd": [
+            "+1340"
+        ],
         "currency": "",
         "currency_code": "",
         "country_code": "VI",
         "capital_geo": {
             "lat": 18.341137,
             "lng": -64.932789
-        }
-}, 
+        },
+        "borders": [
+            "SE"
+        ]
+    },
     {
         "name": "Wallis and Futuna",
         "capital": "Mata Utu",
-        "language": [""],
-        "isd": ["+681"],
+        "language": [
+            ""
+        ],
+        "isd": [
+            "+681"
+        ],
         "currency": "CFP Franc",
         "currency_code": "XPF",
         "country_code": "WF",
         "capital_geo": {
             "lat": -13.2820419,
             "lng": -176.1740224
-        }
-}, 
+        },
+        "borders": [
+            "SE"
+        ]
+    },
     {
         "name": "Western Sahara",
         "capital": "Laayoune",
-        "language": [""],
-        "isd": ["+212"],
+        "language": [
+            ""
+        ],
+        "isd": [
+            "+212"
+        ],
         "currency": "",
         "currency_code": "",
         "country_code": "EH",
         "capital_geo": {
             "lat": 27.154512,
             "lng": -13.1953921
-        }
-}, 
+        },
+        "borders": [
+            "SE"
+        ]
+    },
     {
         "name": "Yemen",
         "capital": "Sanaa",
-        "language": ["Arabic"],
-        "isd": ["+967"],
+        "language": [
+            "Arabic"
+        ],
+        "isd": [
+            "+967"
+        ],
         "currency": "Yemeni Rial",
         "currency_code": "YER",
         "country_code": "YE",
         "capital_geo": {
             "lat": 15.3538569,
             "lng": 44.2058841
-        }
-}, 
+        },
+        "borders": [
+            "SE"
+        ]
+    },
     {
         "name": "Zambia",
         "capital": "Lusaka",
-        "language": ["English"],
-        "isd": ["+260"],
+        "language": [
+            "English"
+        ],
+        "isd": [
+            "+260"
+        ],
         "currency": "Zambian Kwacha",
         "currency_code": "ZMW",
         "country_code": "ZM",
         "capital_geo": {
             "lat": -15.4164124,
             "lng": 28.2824793
-        }
-}, 
+        },
+        "borders": [
+            "SE"
+        ]
+    },
     {
         "name": "Zimbabwe",
         "capital": "Harare",
-        "language": ["Chewa", "Chibarwe", "English", "Kalanga", "Khoisan", "Nambya", "Ndau", "Ndebele", "Shangani", "Shona", "Sotho", "Tonga", "Tswana", "Venda", "Xhosa"],
-        "isd": ["+263"],
+        "language": [
+            "Chewa",
+            "Chibarwe",
+            "English",
+            "Kalanga",
+            "Khoisan",
+            "Nambya",
+            "Ndau",
+            "Ndebele",
+            "Shangani",
+            "Shona",
+            "Sotho",
+            "Tonga",
+            "Tswana",
+            "Venda",
+            "Xhosa"
+        ],
+        "isd": [
+            "+263"
+        ],
         "currency": "United States Dollar",
         "currency_code": "USD",
         "country_code": "ZW",
@@ -3179,5 +5033,5 @@
             "lat": -17.831773,
             "lng": 31.045686
         }
-} 
-  ]
+    }
+]
