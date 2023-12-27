@@ -1,4 +1,12 @@
+const zlib = require('zlib')
 const fj = require('../data/flags/flags.json')
+
+
+function decompressString(compressedString) {
+    const compressedBuffer = Buffer.from(compressedString, 'base64');
+    const decompressedBuffer = zlib.inflateSync(compressedBuffer);
+    return decompressedBuffer.toString();
+}
 
 const flag = (function () {
     let flags_count = fj.length
@@ -9,7 +17,7 @@ const flag = (function () {
             let str = ''
             for (let i = 0; i < flags_count; i++) {
                 if ((fj[i].name).toLowerCase() === country || (fj[i].country_code).toLowerCase() === country) {
-                    str = fj[i].flag
+                    str = decompressString(fj[i].flag)
                     break
                 }
             }
@@ -22,7 +30,10 @@ const flag = (function () {
                 let name = (obj.name).toLowerCase()
                 let code = (obj.country_code).toLowerCase()
                 if (name.includes(country) || code.includes(country)) {
-                    arr.push(obj)
+                    arr.push({
+                        ...obj,
+                        flag: decompressString(obj.flag)
+                    })
                 }
             })
             return arr

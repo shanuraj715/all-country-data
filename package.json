@@ -12,5 +12,8 @@
     "currency codes"
   ],
   "author": "shanuraj715",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "zlib": "^1.0.5"
+  }
 }
