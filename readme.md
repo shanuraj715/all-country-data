@@ -8,6 +8,7 @@ npm i all-country-data
 
 ## **Newly Added**
 
+##### `Flags images are now compressed. Package size reduced from 3.03 MB to ~1.2 MB.`
 ##### `Country Capital Geo: Lattitude and Longitude`
 
 ##
